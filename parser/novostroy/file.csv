@@ -1,0 +1,579 @@
+district,four_room,image,multiroom,name,one_room,room_types,studio,three_room,two_room
+Одинцовский,12460000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b6d66605aedc.jpeg,-1,ЖК «Инновация»,6004000,"studio,one_room,two_room,three_room,four_room",4717000,9554000,6249000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/602aa68643319.jpg,-1,Апарт-отель «Dom Smile»,4190000,"studio,one_room,two_room,three_room",3800000,9360000,6995000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf9165db2a02.jpg,-1,ЖК «Новая Рига»,4902000,"studio,one_room,two_room,three_room",3552000,9125000,7258000
+Восточное Измайлово,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635fd36231386.jpg,-1,ЖК «Измайловский лес»,6494000,"studio,one_room,two_room,three_room",4551000,13566000,6961000
+Чертаново Южное,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6281f27127814.jpg,-1,ЖК «ParkSide»,12725000,"studio,one_room,two_room,three_room",8452000,27071000,18246000
+Нижегородский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635be89d07619.jpg,-1,ЖК «Новохохловская 15»,9297000,"studio,one_room,two_room,three_room",6577000,15942000,12585000
+Очаково-Матвеевское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/62f22d6a8f165.jpg,-1,ЖК «ОМ»,12500000,"studio,one_room,two_room,three_room",9900000,19000000,14000000
+Раменки,56500000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e5e8780dac8c.jpg,66500000,ЖК «Legacy»,-1,"two_room,three_room,four_room,multiroom",-1,37000000,22512000
+Дорогомилово,61166000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6290954639351.jpg,-1,"Апарт-отель «Поклонная, 7»",18120000,"studio,one_room,two_room,four_room",13675000,-1,23574000
+Ленинский,9054000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61af4efa15338.jpg,-1,ЖК «Пригород Лесное»,4993000,"studio,one_room,two_room,three_room,four_room",3455000,7485000,5098000
+Ивантеевка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b7b5474eecd1.jpg,-1,ЖК «Ивантеевка 2020»,5800000,"studio,one_room,two_room",3800000,-1,8600000
+Балашиха,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf523d1313f7.png,-1,ЖК «28 микрорайон»,6636800,"one_room,two_room,three_room",-1,11190000,9006000
+Южное Бутово,11563000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61f7e5f8f2854.jpg,-1,ЖК «Остафьево»,7114000,"studio,one_room,two_room,three_room,four_room",5065000,9901000,7417000
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62b2da7f3c1d4.jpg,-1,МФК Клубный дом «Космо 4/22»,43024900,"one_room,two_room,three_room",-1,145419000,103915000
+Сокольники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63296eba1b4ce.jpg,-1,Апарт-отель «Loft Рижская»,-1,studio,4000000,-1,-1
+Богородское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f47987998fc2.jpg,-1,ЖК «Просторная 7»,-1,"studio,two_room,three_room",9357000,25393000,21520000
+Московский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf4f54f3b7c8.jpeg,-1,МЖК «Бристоль»,7300000,one_room,-1,-1,-1
+Обручевский,85469000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59314fc50c125.png,-1,ЖК «Квартал 38А»,32500000,"one_room,two_room,three_room,four_room",-1,48640000,53254000
+Отрадное,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_621f369c71366.jpg,-1,Апарт-отель «Шерстон»,-1,studio,4407500,-1,-1
+Тверской,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cb4b154e1a69.jpeg,356100000,"МФК «Долгоруковская, 25»",-1,"two_room,three_room,multiroom",-1,59420000,42052000
+Щёлковский,9857200,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e3af4337da92.jpg,-1,ЖК «Клюквенный»,-1,"three_room,four_room",-1,7495100,-1
+Химки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/585952600023c.jpg,-1,ЖК «в Папанинском переулке»,2950500,"studio,one_room,two_room,three_room",2814400,5146790,4585860
+Московский,26131000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f451845e476d.jpg,-1,ЖК «Переделкино Ближнее»,7640000,"studio,one_room,two_room,three_room,four_room",7333000,13975000,10559000
+Одинцовский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/552fa4a9e26f4.jpg,-1,МЖК «Борисоглебское 2»,5089500,"one_room,two_room,three_room",-1,10223600,6209400
+Басманный,373560000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c17c0229770c.jpg,-1,ЖК «Дом с Атлантами»,-1,"two_room,four_room",-1,-1,281570000
+Котловка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5bc36973d57b4.jpg,-1,Апарт-отель «Nakhimov»,10200000,"one_room,two_room,three_room",-1,22290000,15990000
+Пресненский,200477000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5da83fed484dd.jpg,337719000,ЖК «Lucky»,45440000,"one_room,two_room,three_room,four_room,multiroom",-1,133742000,91086000
+Внуковское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6006c2a180e67.jpg,-1,МЖК «Бристоль Москва»,8892800,"one_room,two_room",-1,-1,14179000
+Железнодорожный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d650218d179f.jpg,-1,ЖК «Столичный»,4530000,"studio,one_room,two_room,three_room",4086000,7541000,5674000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c89187b51678.jpg,-1,ЖК «Новоград «Павлино»,5601000,"studio,one_room,two_room,three_room",4174000,7074000,5543000
+Солнечногорский,11018000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/56014cfc0311e.jpg,-1,ЖК «Митино О2»,4700000,"one_room,two_room,three_room,four_room",-1,8483000,6513000
+Дорогомилово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/51e0145a6c2e2.jpg,-1,ЖК «Кутузов»,17500000,one_room,-1,-1,-1
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7c72a126090.jpg,-1,ЖК «Три квартала»,5630000,"one_room,two_room,three_room",-1,12138000,8012000
+Московский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62fd03ba40f9b.jpg,-1,ЖК «Рассказово»,7728000,"one_room,two_room,three_room",-1,14460000,11388000
+Марьина Роща,33255000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/627e10083e3d4.jpg,-1,ЖК «Pride»,15951000,"one_room,two_room,three_room,four_room",-1,26148000,19308000
+Раменки,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/503cdf30eef24.jpg,69000000,ЖК «Золотые ключи-2»,-1,multiroom,-1,-1,-1
+Домодедово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5272387a21942.jpg,-1,ЖК «на улице Кирова»,5700000,"one_room,three_room",-1,10300000,-1
+Лобня,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf106cae7825.jpg,-1,ЖК «Москвич»,-1,studio,6750000,-1,-1
+Преображенское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/637761148afb0.png,-1,Апарт-отель «Park Place Sokolniki»,-1,studio,4730000,-1,-1
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/51e6c2d97986f.jpg,230000000,ЖК «Barkli Residence»,-1,"three_room,multiroom",-1,67000000,-1
+Арбат,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d03ae0e3ca0e.jpg,481844000,ЖК «Большой Афанасьевский»,-1,multiroom,-1,-1,-1
+Северный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5072e807e0436.jpg,-1,ЖК «Северная слобода»,-1,two_room,-1,-1,25500000
+Люблино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62fa5878dab28.png,-1,Апарт-отель «Friends»,-1,studio,6100000,-1,-1
+Южное Бутово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5a17e7ecc66dd.jpg,-1,ЖК «Бутово парк 2Б»,8000000,one_room,-1,-1,-1
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_637c8ddd53df5.jpg,-1,"Апарт-отель «Воронцово поле, 12с3»",-1,studio,9800000,-1,-1
+Раменки,90191000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5018f00964120.jpg,123550000,ЖК «Дом на Мосфильмовской»,-1,"three_room,four_room,multiroom",-1,125308000,-1
+Хамовники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c59b2db83133.jpg,-1,ЖК «Artisan»,-1,three_room,-1,287005000,-1
+Басманный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/622320b948da7.jpg,-1,МФК «Палаты Нарышкина»,-1,"two_room,three_room",-1,206320000,140250000
+Истринский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60780917aad60.png,53750000,МЖК «Park Fonte»,-1,multiroom,-1,-1,-1
+Дорогомилово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d08a6e2d3b3e.jpg,679524000,МФК «Город столиц»,-1,multiroom,-1,-1,-1
+Сокольники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_636e20478760f.png,-1,Апарт-отель «Лофт Центросоюзный»,-1,studio,3979000,-1,-1
+Левобережный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_61e815fe72928.jpeg,-1,Апарт-отель «Причал»,-1,studio,3550000,-1,-1
+Раменский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5d7643ce915bd.jpg,-1,МЖК «Солнечный 2017»,3584000,one_room,-1,-1,-1
+Щёлковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf661afda821.gif,-1,ЖК «Пустовский»,6025600,"one_room,two_room",-1,-1,8633800
+Щёлковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d0cda8ae8802.jpg,-1,ЖК «Созвездие (Звенигород)»,-1,two_room,-1,-1,7057450
+Тропарёво-Никулино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6388bbfff085d.jpg,-1,Апарт-отель «All in Salute»,6700000,"studio,one_room,two_room",4900000,-1,10700000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d0264e30aa8e.jpg,20990000,ЖК «Федоскино парк»,-1,multiroom,-1,-1,-1
+Филёвский Парк,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/608a873ce9083.jpg,-1,ЖК «Клубный дом Noble»,-1,"two_room,three_room",-1,54398400,42715100
+Одинцовский,83170000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cebe572434c6.jpg,-1,ЖК «Сколково-Парк»,-1,"three_room,four_room",-1,70880000,-1
+Истринский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6082a1225d83e.jpg,-1,МЖК «Futuro Park»,-1,"two_room,three_room",-1,44275000,39215000
+Раменки,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/599171213ffb2.jpeg,-1,МФК «Ambassador Golf Club Residence»,88654000,"one_room,two_room,three_room",-1,175570000,122360000
+Замоскворечье,86400000,https://st.novostroy.ru/regions/u/b/g/box_orig/59412a1050c91.jpg,-1,ЖК «Английский квартал»,37400000,"one_room,two_room,three_room,four_room",-1,66600000,47000000
+Филёвский Парк,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/627ce71467d38.jpg,-1,Апарт-отель «Ahead»,20412000,"one_room,two_room",-1,-1,57920000
+Щёлковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/598331f6327e3.jpg,-1,МЖК «Варежки»,-1,two_room,-1,-1,6210000
+Сокольники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5facf1090880f.jpg,-1,ЖК «Интеллигент»,11494000,"one_room,two_room,three_room",-1,20095000,14084000
+Замоскворечье,71456000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62cd3bce4332d.jpg,111888000,Апарт-отель «Клубный дом Большая Серпуховская 38к8»,-1,"two_room,three_room,four_room,multiroom",-1,44342000,22965000
+Басманный,60141000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59bfee3ee38b9.jpg,-1,МФК «Гороховский 12»,-1,"two_room,four_room",-1,-1,30690000
+Одинцовский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5645d96d0718e.jpeg,-1,ЖК «Дом на Баковке»,10049700,"one_room,two_room",-1,-1,11603800
+Дорогомилово,181250000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61cc64ca35a2d.jpg,225470000,ЖК «WOODS»,-1,"three_room,four_room,multiroom",-1,152030000,-1
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63046b888931a.jpg,-1,ЖК «Загорье»,-1,"two_room,three_room",-1,20912000,15218000
+Домодедово,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5863e97bdca7e.jpg,8450000,МЖК «Александрия Таун»,-1,multiroom,-1,-1,-1
+Наро-Фоминский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/576a7fcb1bfd2.jpg,-1,ЖК «Воскресенский» (Наро-Фоминск),6300000,"one_room,two_room,three_room",-1,13350000,9400000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/56cda533d1a5a.jpg,-1,ЖК «LEVEL Barvikha Residence»,17854000,"one_room,two_room,three_room",-1,28851000,25979000
+Котельники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf65dca132a5.jpg,-1,ЖК «Зеленый остров» (Котельники),7845000,"one_room,two_room,three_room",-1,13944000,9065000
+Тверской,259980000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cab0ebdcc6c2.jpg,-1,МФК «Kuznetsky Most 12 by Lalique»,112100000,"one_room,three_room,four_room",-1,207134000,-1
+Ногинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c7d0da19325d.jpg,-1,ЖК «ПущиноГрад»,4100000,"studio,one_room,two_room,three_room",3500000,7400000,5000000
+Марфино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ea9ad0c5bb28.jpg,-1,МФК «Апарт-комплекс Ботаник»,-1,studio,5430000,-1,-1
+Таганский,222120000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ecfada819851.jpg,253640000,МФК «Titul на Серебрянической»,51385000,"one_room,two_room,three_room,four_room,multiroom",-1,124570000,67628000
+Ивантеевка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fad1aa27c3d9.jpg,-1,ЖК «Жилой дом в Ивантеевке»,-1,"two_room,three_room",-1,9905000,8183000
+Аэропорт,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/629f94b4518d8.jpeg,-1,Апарт-отель «Air Space»,-1,studio,6600000,-1,-1
+Кузьминки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_5fd3550ddc7b3.jpg,-1,ЖК «MySpace на Окской»,-1,studio,5700000,-1,-1
+Даниловский,95503000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5de67c89015c8.jpg,-1,ЖК «Композиция №24»,-1,four_room,-1,-1,-1
+Левобережный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b602d9f6419e.jpg,-1,ЖК «Discovery Park»,-1,three_room,-1,30324000,-1
+Ивантеевка,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/604a1846ae840.jpg,-1,ЖК «Весна» (Ивантеевка),5161000,"one_room,two_room",-1,-1,7969000
+Ногинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5b193d1b57d55.jpeg,-1,МЖК «Тепло»,5181000,"one_room,two_room,three_room",-1,5346000,6387000
+Кунцево,34503000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/531ec2a48efa5.jpg,-1,ЖК «Крылатский»,-1,"two_room,three_room,four_room",-1,28081000,23764000
+Одинцовский,20853900,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cb07f843bbf9.jpeg,-1,ЖК «Одинград»,-1,"studio,two_room,three_room,four_room",8210300,19969200,14174100
+Лефортово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/625d8acf0b9e6.jpg,-1,МФК «Рогожский Вал 12»,-1,"two_room,three_room",-1,49906800,33465400
+Измайлово,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/59a41b391d8f4.jpg,-1,ЖК «ИзМайЛовО»,-1,two_room,-1,-1,18500000
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/602fb7bff07a8.jpg,-1,ЖК «Суханово Spa Deluxe»,10643000,"studio,one_room",6442000,-1,-1
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6283c32f4fcfd.jpg,-1,Апарт-отель «Connect.Moscow»,-1,studio,6400000,-1,-1
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5eba9ea2d4197.jpg,-1,МФК «Residence Hall Шаболовский»,32793700,"one_room,two_room",-1,-1,36492000
+Хорошёво-Мнёвники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f5f201cb3faa.jpg,50600000,ЖК «Union Park»,20623000,"one_room,two_room,multiroom",-1,-1,30069000
+Черёмушки,66502000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c18b96b0af08.jpg,-1,ЖК «Onyx Deluxe»,-1,"studio,two_room,three_room,four_room",18936000,34303000,30381000
+Якиманка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/584e64b999d78.jpg,-1,ЖК «Cloud Nine»,-1,"two_room,three_room",-1,243200000,138333000
+Тропарёво-Никулино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_6126528f45990.jpg,-1,Апарт-отель «Loft на Вернадского 41»,-1,studio,4144000,-1,-1
+Нагатино-Садовники,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/wm_6102bd6163687.jpg,-1,Апарт-отель «Loft Нагорная»,4540000,one_room,-1,-1,-1
+Ростокино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_608aa45326b90.png,-1,Апарт-отель «Турист»,-1,studio,5153650,-1,-1
+Нижегородский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/537b16aba5ef8.jpg,-1,ЖК «Геометрия»,-1,three_room,-1,39170000,-1
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f479bb808657.jpg,-1,ЖК «Столичные поляны»,-1,two_room,-1,-1,14809400
+Арбат,265000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5bf55d321e4b8.jpg,419000000,МФК «Звезды Арбата»,62739000,"one_room,two_room,three_room,four_room,multiroom",-1,99441000,85024000
+Щёлковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/602d19a142739.jpg,-1,ЖК «Полёт-Купавна»,5697000,"one_room,two_room,three_room",-1,8491500,6555000
+Тверской,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f43e9fa5563d.jpg,-1,МФК «Клубный дом в Газетном»,78120000,"one_room,three_room",-1,231840000,-1
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f476e9041fd6.jpg,-1,ЖК «Оранж парк»,-1,"studio,three_room",8501000,12585000,-1
+Щукино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/556716d5ba58c.jpg,-1,ЖК «Хорошевский»,-1,three_room,-1,31894000,-1
+Арбат,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d0361c2a8c52.jpg,-1,МФК «Театральный Дом»,-1,"two_room,three_room",-1,133420000,90726000
+Раменки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6131f361b1370.jpg,112930000,ЖК «Городские резиденции SPIRES»,-1,multiroom,-1,-1,-1
+Чертаново Южное,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/6380b5246c729.jpg,-1,МФК «Варшавские ворота»,8740000,"studio,one_room,two_room",5639000,-1,11970000
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_62cd7b4814019.jpg,-1,МФК «Парк Легенд»,15561000,"one_room,two_room",-1,-1,22625000
+Подольский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/52b2dc3400fdf.jpg,-1,ЖК «Бородино» (Кутузово),5057000,"one_room,two_room",-1,-1,8617000
+Истринский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/54f98cffe1992.jpg,-1,МЖК «Sampo»,-1,two_room,-1,-1,8860000
+Сокольники,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5af9ae5c57e03.png,-1,МФК «Резиденции архитекторов»,-1,"two_room,three_room",-1,50167000,32347000
+Московский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b2bbc392e2a9.jpg,-1,ЖК «FoRest»,14228000,"studio,one_room,two_room,three_room",12026000,23609000,19862000
+Останкинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6304ad0537112.jpg,-1,Апарт-отель «Лофт на Шереметьевской»,-1,studio,5598200,-1,-1
+Москворечье-Сабурово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5941660baa37a.jpg,-1,ЖК «Домашний»,-1,three_room,-1,17364000,-1
+Черёмушки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_6284cfa77e6e2.png,-1,Апарт-отель «Лофт-студии на Херсонской 41а»,-1,studio,4664000,-1,-1
+Басманный,270480000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ebabcffc8179.jpg,-1,МЖК «Дом Абрикосова»,-1,"two_room,four_room",-1,-1,145650000
+Котельники,17055600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f4793c04d875.jpg,-1,ЖК «Кузьминский лес»,8785900,"one_room,four_room",-1,-1,-1
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d6010936a41e.jpg,-1,МФК «Нормандия»,5934000,"one_room,two_room,three_room",-1,10088000,7991000
+Басманный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ba3a73223337.jpg,-1,ЖК «Bauman House»,-1,two_room,-1,-1,29585500
+Замоскворечье,47000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6086b75a5a490.jpg,-1,ЖК «High Life»,27000000,"one_room,two_room,three_room,four_room",-1,64500000,22990000
+Красногорский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/599ec6e6859b0.jpg,-1,ЖК «Красногорский»,6250000,"studio,one_room",5400000,-1,-1
+Якиманка,417500000,https://st.novostroy.ru/regions/u/b/g/box_orig/60cc8030b8737.jpg,761850000,ЖК «Armani / Casa Moscow Residences»,-1,"four_room,multiroom",-1,-1,-1
+Южное Бутово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d554a2f92160.jpg,-1,ЖК «Новая Звезда» (Газопровод),6671200,"one_room,two_room",-1,-1,10732500
+Кунцево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/632ca3e806e68.jpg,-1,ЖК «М_5»,8950000,"one_room,two_room,three_room",-1,18319000,12732000
+Останкинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60f5b088888ff.jpg,-1,ЖК «Сенатор»,22300000,"studio,one_room,two_room,three_room",15200000,35870000,31240000
+Хамовники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/50a360ba02acb.jpg,-1,ЖК «Knightsbridge Private park»,122747000,one_room,-1,-1,-1
+Митино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6321f0baa1125.jpg,-1,ЖК «Аквилон Митино»,8138400,"studio,one_room,two_room,three_room",6300000,12300000,11703800
+Ярославский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d1606b92a5b7.jpg,-1,ЖК «Сказочный лес»,5900000,"studio,one_room,two_room",6300000,-1,10500000
+Замоскворечье,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59bff26009d44.png,-1,МФК «Balchug Residence»,217197000,one_room,-1,-1,-1
+Замоскворечье,85956000,https://st.novostroy.ru/regions/u/b/g/box_orig/5900ab4a38b64.jpg,99844000,МФК «Резиденции Замоскворечье»,23782000,"studio,one_room,two_room,three_room,four_room,multiroom",18882000,50248000,36548000
+Богородское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_628e07b429ab5.png,-1,ЖК «Дом на Ивантеевской»,-1,studio,6230000,-1,-1
+Замоскворечье,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ced315a5035b.jpg,-1,МФК «Balchug Viewpoint»,-1,three_room,-1,115000000,-1
+Ярославский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b9bd8f4cbd53.jpg,-1,ЖК «Настроение»,11436800,"one_room,two_room,three_room",-1,20005900,17670000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c764160f0afa.jpg,-1,ЖК «Новотомилино»,6004700,"studio,one_room,two_room,three_room",4323400,10181900,9861600
+Соколиная Гора,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_5fa417a98ba5f.jpg,-1,Апарт-отель «Loft Вольный»,-1,studio,4800000,-1,-1
+Одинцовский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/62eba43849769.jpg,-1,ЖК «Каштановая роща»,5479700,"studio,one_room,two_room,three_room",4432500,6864200,5800000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59380d085c2a2.jpg,-1,ЖК UP-квартал «Сколковский»,7924000,one_room,-1,-1,-1
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b3cab6f8f2d1.jpg,-1,ЖК «Афродита»,6150000,"one_room,two_room,three_room",-1,9700000,7000000
+Королёв,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d7f74bcc3169.jpg,-1,МФК «Созвездие (Королёв)»,-1,studio,4950000,-1,-1
+Истринский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5141d92a526a3.jpg,-1,МЖК «Метелица»,4213000,"one_room,two_room,three_room",-1,8153600,5299200
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_62fb64ba973d5.png,-1,Апарт-отель «Life&Loft»,3900000,"one_room,two_room",-1,-1,6400000
+Очаково-Матвеевское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6266bc2fbd7d4.jpg,-1,"ЖК «Дом на Аминьевском шоссе, 5»",-1,studio,4400000,-1,-1
+Истринский,8500000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b3ce5b867896.jpeg,-1,ЖК «Новоснегиревский»,-1,"two_room,three_room,four_room",-1,7600000,6000000
+Одинцовский,13511400,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/608929ad99880.jpg,-1,МЖК «Эльйон»,6701800,"one_room,two_room,three_room,four_room",-1,9018700,8855000
+Раменский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/56e6ca7167cc9.jpg,-1,МЖК «ЭКО ном и Я»,2445000,"studio,one_room,two_room,three_room",8900000,4504000,3094000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f3e72c5abf98.jpg,-1,ЖК «Томилино Парк»,6792700,"studio,one_room,two_room,three_room",4409000,10167900,7306600
+Останкинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/62dfdd1a60d34.jpg,-1,"Апарт-отель «Королева, 13»",13100000,"studio,one_room,two_room,three_room",8280000,32100000,17120000
+Люблино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e6792fe14699.jpg,-1,ЖК Светлый мир «Станция «Л»,5900000,"studio,one_room,three_room",5750000,14250000,-1
+Войковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_61eaacae061fd.jpg,-1,Апарт-отель «КларНет»,10850000,"studio,one_room",5200000,-1,-1
+Московский,16206000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5a253b34eebe7.jpg,-1,ЖК «Филатов луг»,7133000,"one_room,two_room,three_room,four_room",-1,12249000,8341000
+Западное Дегунино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_628df24b0621e.png,-1,Апарт-отель «AM-Studios»,-1,studio,2847100,-1,-1
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5074258959cf3.jpg,-1,ЖК «Завидное»,-1,two_room,-1,-1,5700000
+Соколиная Гора,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_6292468cbe133.png,-1,Апарт-отель «Вольная 25»,-1,studio,4277800,-1,-1
+Войковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_62946fd5f0545.png,-1,Апарт-отель «Лофт на Соколе»,-1,studio,5415000,-1,-1
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_60b4fe3ef03ae.jpg,-1,"Апарт-отель «Лофт на Подъемной, 14»",-1,studio,2990000,-1,-1
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f5a988141911.jpg,-1,"ЖК «Тессинский, 1»",62820000,"one_room,two_room,three_room",-1,160250000,131420000
+Басманный,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/wm_6170189027558.jpg,-1,"Апарт-отель «Покровка, 29»",-1,studio,7514500,-1,-1
+Дорогомилово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59d212722084b.jpg,-1,ЖК «Кутузовский XII»,-1,"two_room,three_room",-1,69000000,44500000
+Свиблово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6023cf0c106d3.jpg,-1,ЖК «Silver»,24512000,"one_room,two_room,three_room",-1,40368000,31672000
+Даниловский,33102000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60f15bf11916c.jpg,-1,Апарт-отель «Level Донской»,-1,"two_room,four_room",-1,-1,17919000
+Басманный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e1df93cdaa55.jpg,-1,Апарт-отель «KAZAKOV Grand Loft»,-1,"two_room,three_room",-1,148434000,43618000
+Котельники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/639090f4b4ce8.jpg,-1,ЖК «Томилинский бульвар»,6376000,"studio,one_room,two_room,three_room",4746000,11640000,6233000
+Хорошёво-Мнёвники,63970000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5bb4ea5e1d3ca.jpg,-1,ЖК «Серебряный парк»,-1,"two_room,four_room",-1,-1,34620000
+Нижегородский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fd0acff27663.jpg,-1,ЖК «Аквилон Beside»,9965000,"studio,one_room,two_room",7022900,-1,15278800
+Клинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5255684f51bc8.jpg,-1,ЖК «Олимп-3»,5100000,"one_room,two_room,three_room",-1,7700000,5620000
+Наро-Фоминский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f3c4d87a05ed.png,-1,МФК «Fabrik»,-1,studio,8250000,-1,-1
+Тверской,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/620b90160d7b7.jpg,-1,Апарт-отель «RestArt»,45655000,"one_room,two_room,three_room",-1,60375000,57040000
+Басманный,471000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/620e207fd05a2.png,601000000,ЖК «Клубный дом Чистые Пруды»,75000000,"one_room,two_room,three_room,four_room,multiroom",-1,317000000,141000000
+Можайский,53414200,https://st.novostroy.ru/regions/u/b/g/box_orig/62e3a5ce3d78a.jpg,-1,ЖК «TWICE»,17771800,"one_room,two_room,three_room,four_room",-1,38172700,27916800
+Басманный,89735000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_62b0269e87ae0.jpg,129056000,ЖК «Ренессанс»,38365600,"studio,one_room,two_room,three_room,four_room,multiroom",27696000,67388900,46138400
+Басманный,276950000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/627397a570b7a.jpg,324100000,"Апарт-отель «Ильинка, 3/8»",79800000,"one_room,two_room,three_room,four_room,multiroom",-1,220350000,134850000
+Филёвский Парк,50643000,https://st.novostroy.ru/regions/u/b/g/box_orig/513f1c908e4b7.jpg,-1,МФК «Береговой»,23310000,"one_room,two_room,three_room,four_room",-1,27249000,24198000
+Покровское-Стрешнево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_63637cc4156fd.png,-1,Апарт-отель «Лофт Волоколамское»,-1,studio,3506000,-1,-1
+Западное Дегунино,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/61891f441e75f.jpg,-1,МФК «ГОРОД daily»,-1,studio,6500000,-1,-1
+Чеховский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e41837026394.jpg,-1,МЖК «Морозовка»,-1,two_room,-1,-1,5390000
+Химки,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/618a51814202c.jpg,-1,ЖК «Фрунзенский»,4822500,"studio,one_room,two_room",4476250,-1,6175200
+Раменки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b856fbc638f0.jpg,-1,МФК «Мосфильмовская»,-1,three_room,-1,49500000,-1
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59a3e9e2d942d.jpg,-1,ЖК «Лесной квартал»,4200000,"one_room,two_room",-1,-1,5440000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c211e6c336c6.jpg,-1,ЖК «Цветной бульвар»,-1,two_room,-1,-1,5622000
+Бескудниковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5bd867ab32350.jpg,-1,ЖК «Талисман на Дмитровском»,11600000,"one_room,two_room",-1,-1,14500000
+Пресненский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/530b168101f27.jpg,-1,ЖК «Резиденция Монэ»,-1,three_room,-1,95000000,-1
+Хамовники,300000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c408a1c2fb5f.jpg,-1,ЖК «Villa Grace»,-1,four_room,-1,-1,-1
+Серпуховский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d023e66473a8.jpg,-1,МЖК «Скрылья»,3020000,"one_room,two_room",-1,-1,4299400
+Раменки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d651d56609d0.jpg,-1,МФК «Пироговская 14»,67520000,"one_room,two_room,three_room",-1,154462000,104700000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b8486727510b.jpg,-1,ЖК «Новое Лыткарино»,5385000,"studio,one_room,three_room",4310600,7890000,-1
+Раменки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61cafcd2cf171.jpg,-1,ЖК «Инноватор»,-1,"studio,two_room,three_room",11823900,23120800,16513500
+Нагатино-Садовники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/624fce4524b2b.jpg,-1,ЖК «1-й Нагатинский»,15094000,"studio,one_room,two_room,three_room",12179000,28697000,20361000
+Пресненский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5bffc7e33fb30.jpg,-1,"ЖК Клубный дом «Малая Бронная, 15»",-1,three_room,-1,542800000,-1
+Кузьминки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6164300067e18.jpg,-1,Апарт-отель «Апартаменты в Кусково»,-1,studio,3890000,-1,-1
+Ногинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cee5ed009d71.jpg,-1,ЖК «Полет» (Ногинск),6852000,"one_room,two_room,three_room",-1,9196000,6688000
+Ярославский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/4fd1e44399189.jpg,-1,МФК «Триколор»,-1,"two_room,three_room",-1,38080000,33739000
+Мещанский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/546f326ec9658.jpg,-1,МФК «Волга»,11309000,"one_room,two_room,three_room",-1,20626000,17484000
+Раменки,110312000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5a0aedab230a8.jpg,110312000,ЖК «Вишневый сад»,-1,"four_room,multiroom",-1,-1,-1
+Первомайское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/603f3d6bc243f.jpg,-1,ЖК «Ново-Никольское»,6650000,"one_room,two_room,three_room",-1,10370000,8894000
+Солнечногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/600f070aeefb5.jpg,-1,ЖК «Парковый» (Солнечногорск),5658000,"studio,one_room,two_room,three_room",4992000,12450000,8690000
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6300d0937f2b6.png,-1,МЖК «Красногорск Парк»,-1,two_room,-1,-1,8586000
+Кунцево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/519f414631755.jpg,-1,ЖК «Парк Рублево»,-1,three_room,-1,95000000,-1
+Сокольники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fa04aa601d5e.jpg,-1,МФК «Резиденция Сокольники»,13700000,"studio,one_room,two_room,three_room",11750000,34156000,25460000
+Можайский,53500000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfc8ff6c63d0.jpg,-1,ЖК «LIFE-Кутузовский»,-1,four_room,-1,-1,-1
+Савёловский,37417000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59e60caff3564.jpg,-1,МФК «Искра-Парк»,19490000,"one_room,two_room,three_room,four_room",-1,31472000,29478000
+Очаково-Матвеевское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5936a77252872.jpg,-1,МФК «Citimix»,-1,"studio,two_room",5000000,-1,18569000
+Сокол,52116000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf145e0e2227.jpeg,75184000,МФК «Маршал»,18445000,"one_room,three_room,four_room,multiroom",-1,37075000,-1
+Свиблово,19583000,https://st.novostroy.ru/regions/u/b/g/box_orig/6380995a3690a.png,-1,Апарт-отель «Мираполис»,7764000,"studio,one_room,two_room,three_room,four_room",5226000,12994000,8137000
+Крюково,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_624ea0be57322.jpg,-1,ЖК «My Space в Зеленограде»,-1,studio,4440000,-1,-1
+Химки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cab282056562.jpg,-1,ЖК «Аврора (Химки)»,11454000,"one_room,two_room,three_room",-1,18238000,14512000
+Западное Дегунино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360b84470899.jpg,-1,ЖК «Ильменский 17»,12361000,"one_room,two_room,three_room",-1,19617000,12958000
+Лыткарино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf661c1e59f8.jpg,-1,ЖК «Гармония Парк»,-1,"studio,two_room",2933000,-1,6512300
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfc9abc42af0.jpg,-1,ЖК «Резиденции композиторов»,-1,studio,13685000,-1,-1
+Десёновское,13980000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/577a2dc718816.jpg,13980000,Апарт-отель «Троицкий берег»,-1,"two_room,three_room,four_room,multiroom",-1,7550000,7514000
+Замоскворечье,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/57bc581956921.jpg,509040000,ЖК «Симфония набережных»,-1,"three_room,multiroom",-1,150000000,-1
+Фили-Давыдково,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfa13834f913.jpg,113800000,ЖК «Shome»,18500000,"one_room,two_room,three_room,multiroom",-1,29788000,21171000
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c877f699f85a.jpg,-1,ЖК «Зеленые аллеи»,6718000,"one_room,three_room",-1,9697000,-1
+Марьина Роща,27488000,https://st.novostroy.ru/regions/u/b/g/box_orig/635a9092ea27f.jpg,-1,ЖК «Шереметьевский»,15813000,"one_room,three_room,four_room",-1,20583000,-1
+Северное Медведково,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/58cbfa80baa3a.jpg,-1,ЖК «Shirokaya»,6997000,"one_room,two_room,three_room",-1,15429000,9826000
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/632865e5d8a3c.png,-1,Апарт-отель «Инсайдер»,16438900,"studio,one_room,two_room",8621500,-1,24743500
+Пресненский,180800000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e05da8e8c14a.jpg,-1,ЖК «Eleven»,83100000,"one_room,two_room,three_room,four_room",-1,185600000,78300000
+Выхино-Жулебино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/635926827e5a4.jpg,-1,ЖК «Люберцы парк»,-1,studio,6307000,-1,-1
+Останкинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_6282744ce25be.png,-1,"Апарт-отель «Лофт на Ольминского, 7»",-1,studio,6910500,-1,-1
+Северное Медведково,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/627e46b4d0823.jpg,-1,МФК «Clementine»,6487100,"studio,one_room,two_room",4355000,-1,9294900
+Митино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/605490f6234b2.jpg,-1,ЖК «Микрогород «В лесу»,-1,three_room,-1,22724000,-1
+Сосенское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5167f90d98d81.jpg,-1,ЖК «Дубровка»,13360000,"one_room,two_room,three_room",-1,22921000,19071000
+Выхино-Жулебино,18900000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60264e1142674.jpg,-1,ЖК «Twin House»,-1,"three_room,four_room",-1,14800000,-1
+Дорогомилово,156855000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59b80ed370e59.jpg,-1,МФК «Neva Towers»,36708000,"one_room,two_room,three_room,four_room",-1,70497000,46480000
+Ивантеевка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cee4ee14f975.jpg,-1,ЖК «Финский»,4631800,"one_room,two_room,three_room",-1,6220400,5629000
+Филёвский Парк,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e0476609225a.jpg,-1,МФК «Match Point»,-1,"two_room,three_room",-1,66268000,34447000
+Кузьминки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_60eed696e7041.jpg,-1,Апарт-отель «New Form Жигулевская»,-1,studio,3430000,-1,-1
+Раменки,65000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59cca6e10619b.jpg,300000000,ЖК «Воробьев дом»,-1,"two_room,three_room,four_room,multiroom",-1,48000000,39000000
+Ростокино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6087f4eb3b3f1.png,-1,ЖК «Я51»,11933400,"studio,one_room,two_room,three_room",8900000,18387600,17009900
+Алтуфьевский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dc9407e208f6.jpg,-1,ЖК «В стремлении к свету...»,7190000,"one_room,three_room",-1,18990000,-1
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfb8ad545fab.jpg,-1,ЖК «Лидер парк»,7900000,"studio,one_room,two_room,three_room",6000000,9800000,9400000
+Можайский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/57ce993f64ab2.jpg,-1,МФК «Sky Skolkovo»,4200000,one_room,-1,-1,-1
+Арбат,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fac4fdf7a83d.jpg,230120000,МФК «Пречистенка 8»,68385000,"studio,one_room,two_room,multiroom",80620000,-1,116254000
+Ногинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d0905aeb90a4.jpg,-1,ЖК «Высоково»,-1,"studio,two_room,three_room",3232000,5802900,5422500
+Мытищинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5935585685350.jpg,-1,ЖК «Отрадный»,6475000,"studio,one_room,two_room,three_room",5681000,11004000,10512000
+Пушкинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dc2d501b5ce6.png,-1,ЖК «Серебро»,7519000,"studio,one_room,two_room,three_room",4526500,8016300,8902600
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ec7b15913024.jpg,-1,ЖК «Дмитров Сити»,4788000,"studio,one_room,two_room,three_room",3900000,7630000,6390000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6358eda332661.jpg,-1,ЖК «Катуар»,4783000,"one_room,two_room",-1,-1,6258000
+Пресненский,287837000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6082bd00bc239.jpg,384911000,МФК «Большая Дмитровка IX»,-1,"two_room,three_room,four_room,multiroom",-1,102313000,86067000
+Таганский,46534000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/589895a73d1ae.jpg,-1,ЖК «The Mostman»,-1,"two_room,four_room",-1,-1,30226000
+Хорошёвский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5a8e957b89f4f.jpg,-1,ЖК «Лица»,-1,"two_room,three_room",-1,36849000,36999000
+Одинцовский,14087300,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f4785932d339.jpg,-1,ЖК «Союзный»,7972300,"studio,one_room,two_room,three_room,four_room",6111800,11210600,7772400
+Левобережный,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/60d0b23aa2514.jpg,-1,"Апарт-отель «Досфлота, 10»",23111600,"one_room,two_room,three_room",-1,41211400,30990100
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/620a09092d8d3.jpg,-1,Апарт-отель «Logos»,13903000,"studio,one_room,two_room,three_room",12332000,47580000,27805000
+Богородское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/599ff3d592ad7.jpg,-1,ЖК «Время»,13726000,"one_room,two_room,three_room",-1,26177000,18930000
+Головинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f439f0dbc569.jpg,-1,ЖК «Ленинградка 58»,-1,"two_room,three_room",-1,29037000,29619000
+Замоскворечье,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61558e18c931c.jpg,-1,Апарт-отель «Cult»,59050000,"studio,one_room,two_room",31285000,-1,100210000
+Химки,14841000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62ce7703c0e11.jpg,-1,ЖК «Мишино-2»,7151000,"studio,one_room,two_room,three_room,four_room",5200000,12100000,10504000
+Савёловский,92220000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61b740e30ed11.png,-1,Апарт-отель «GloraX Aura Belorusskaya»,28980000,"studio,one_room,two_room,three_room,four_room",18099000,42940000,35200000
+Даниловский,29669600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/619f4210ab991.jpg,-1,ЖК «Rotterdam»,14968300,"studio,one_room,two_room,three_room,four_room",12003800,21672200,19411300
+Богородское,35639000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d5a9068ad4d1.jpg,-1,ЖК «Большая Семерка»,14300000,"one_room,two_room,three_room,four_room",-1,27684000,18635000
+Солнечногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/544a466778674.jpg,-1,ЖК «Первый Зеленоградский»,4692000,"one_room,two_room,three_room",-1,7514000,6656000
+Головинский,28804000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60bf335052d11.jpg,-1,ЖК «Михалковский»,10963000,"studio,one_room,two_room,three_room,four_room",8510000,23343000,15235000
+Хамовники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ee9d05d78f70.jpg,614620000,Апарт-отель «Roza Rossa»,79082900,"one_room,two_room,three_room,multiroom",-1,285119000,119251000
+Метрогородок,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360c649c49eb.jpg,-1,ЖК «Открытый парк»,7477000,"studio,one_room,two_room,three_room",5290000,14680000,10533000
+Замоскворечье,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f56092532bbe.jpg,-1,МФК «Амарант»,20857000,"studio,one_room,two_room",13622000,-1,27170000
+Котельники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/58e222255d235.jpg,-1,Квартал «Новые Котельники»,3730000,"one_room,two_room,three_room",-1,9995000,5927000
+Щукино,51217000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5de8f71887c71.jpg,-1,ЖК «TREND»,20000000,"one_room,four_room",-1,-1,-1
+Нагатинский Затон,33450000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6272626624b4d.jpg,-1,Апарт-отель «WOW»,19810000,"studio,one_room,two_room,three_room,four_room",14200000,25290000,19200000
+Люберецкий,11500000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61a4ba4d045df.jpg,-1,МФК «Люберцы 2023»,4759000,"studio,one_room,two_room,three_room,four_room",4132200,6644700,5622000
+Молжаниновский,13267100,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/623ad4075af0e.jpg,-1,ЖК «Молжаниново»,8140200,"studio,one_room,two_room,three_room,four_room",6512000,10846800,8328900
+Одинцовский,26060600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60be10b672bae.jpg,-1,ЖК «Заречный квартал»,7932400,"one_room,two_room,three_room,four_room",-1,31868000,16460000
+Нижегородский,28715000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ee8945eaf1ab.jpg,-1,ЖК «Соседи 21/19»,11934900,"one_room,two_room,three_room,four_room",-1,24590400,18603900
+Метрогородок,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b6ab9f2f1848.jpg,-1,МФК «Сиреневый парк»,9870900,"studio,one_room,two_room,three_room",7377400,16354600,14957600
+Левобережный,50600000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_6050f55c8fa99.jpg,68050000,ЖК «Aquatoria»,19850000,"one_room,two_room,three_room,four_room,multiroom",-1,30000000,23800000
+Кокошкино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/52aed970b3bed.jpg,-1,ЖК «Внуково Парк-1»,5838000,"one_room,two_room,three_room",-1,8901000,6678000
+Хамовники,92755000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/605b30092f361.jpg,152416000,ЖК «Savvin River Residence»,-1,"two_room,three_room,four_room,multiroom",-1,152550000,73395000
+Дорогомилово,127914000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6114f79ac780a.jpg,-1,"Апарт-отель «Поклонная, 9»",-1,"two_room,three_room,four_room",-1,94442000,47887000
+Дорогомилово,85030000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6295eabb7518e.jpg,156759000,ЖК «Onest»,-1,"two_room,three_room,four_room,multiroom",-1,57966000,39124000
+Преображенское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62fe425711227.png,-1,ЖК «Преображенская площадь»,18518000,"one_room,two_room,three_room",-1,40294000,27336000
+Богородское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/62e3aa442b6b5.png,-1,ЖК «Self»,11304300,"studio,one_room,two_room,three_room",8460000,20441900,17402100
+Савёловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6070458fb68f8.jpg,50768000,ЖК «D1»,22836000,"one_room,three_room,multiroom",-1,35480000,-1
+Раменки,47500000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5a6efdbe3b8b7.jpg,-1,ЖК «Небо»,17900000,"one_room,two_room,three_room,four_room",-1,34000000,23000000
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fd9de35db970.jpg,-1,Апарт-отель Клубный дом «Рублево»,14330000,"studio,one_room,two_room,three_room",9830000,25950000,16120000
+Покровское-Стрешнево,24849800,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61c1953caf03c.jpg,-1,ЖК «Sky Garden»,13501300,"studio,one_room,two_room,three_room,four_room",10840200,17476700,13719400
+Савёловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e4be9f57dd6c.jpg,-1,МФК «Alcon Tower»,-1,"two_room,three_room",-1,54009000,39173000
+Головинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/623dc1f3cd317.jpg,-1,Апарт-отель «Monodom Lake»,-1,"studio,two_room",8494000,-1,15750000
+Солнечногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59ca566ced15a.jpg,-1,МЖК «Бакеево-Парк»,4070000,"one_room,two_room,three_room",-1,8500000,6218000
+Хамовники,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/60a6472686436.jpg,-1,МФК «LUNAR»,31000000,"studio,one_room,two_room,three_room",22722700,90963200,50348900
+Одинцовский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5824506d02cd6.jpg,-1,МЖК «Грибовский лес»,8747300,"studio,one_room,two_room,three_room",9203400,13897200,10275700
+Западное Дегунино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f4d130018537.jpg,-1,МФК «Любовь и голуби»,16335000,"studio,one_room,two_room,three_room",11093000,26402000,21394000
+Ногинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60e427cf5d9bb.jpg,-1,ЖК «Новоград Монино»,4189900,"one_room,two_room,three_room",-1,6885100,5089000
+Люберецкий,11685800,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6012d114c46e1.jpg,-1,ЖК «Pilot 9-18»,5251100,"one_room,two_room,three_room,four_room",-1,9084400,5950000
+Хорошёво-Мнёвники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6079f9e0da793.jpg,-1,Апарт-отель «Wellton Gold»,14696000,"one_room,two_room,three_room",-1,19216000,18948000
+Ленинский,12310300,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60eda0c753508.jpg,-1,ЖК «Миловидное»,4100000,"studio,one_room,two_room,three_room,four_room",4700000,8192900,7287800
+Одинцовский,11226000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6091454ea6bc0.png,-1,МФК «Равновесие»,4800000,"one_room,two_room,three_room,four_room",-1,8541000,6000000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c73fff23eb4d.jpg,-1,ЖК «Пироговская Ривьера»,3786000,"one_room,two_room,three_room",-1,10291000,6102000
+Якиманка,723000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/634ffac9d547f.jpg,813000000,ЖК Дом «Лаврушинский»,159000000,"one_room,two_room,three_room,four_room,multiroom",-1,332000000,207000000
+Южнопортовый,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/608400c83030d.png,-1,МФК «HighWay»,-1,"studio,two_room,three_room",5763000,10287000,7809000
+Дорогомилово,154596000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7ec49d8d443.jpg,-1,ЖК «Victory Park Residences»,-1,"two_room,three_room,four_room",-1,93953000,64907000
+Десёновское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/608a9e5544aaf.jpg,-1,ЖК «Новые Ватутинки»,6800000,"studio,one_room,two_room,three_room",5050000,12675000,9500000
+Филёвский Парк,36722000,https://st.novostroy.ru/regions/u/b/g/box_orig/635be7850bec8.jpg,-1,ЖК «Западный порт»,15786000,"studio,one_room,two_room,three_room,four_room",13422000,20835000,16659000
+Филёвский Парк,32108000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63569c90950e4.jpg,-1,ЖК «Барклая 6»,12623000,"studio,one_room,two_room,three_room,four_room",9851000,22094000,13054000
+Филёвский Парк,36808000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5a7db5b29fe36.jpg,-1,ЖК «Headliner»,13600000,"one_room,two_room,three_room,four_room",-1,24500000,25000000
+Филимонковское,14683000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c8a1b1ab2f1a.jpg,21395000,ЖК «Цветочные поляны»,8180000,"studio,one_room,two_room,three_room,four_room,multiroom",6863000,14747000,9580000
+Некрасовка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ec536787ac8f.jpg,-1,ЖК «Гоголь парк»,6700000,"studio,one_room,two_room,three_room",5038000,12398000,5985000
+Раменки,35739000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d5e8485c873e.jpg,65162000,ЖК «West Garden»,16712000,"one_room,two_room,three_room,four_room,multiroom",-1,27801000,20796000
+Ленинский,11836600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f5f653b867aa.jpg,-1,ЖК «Видный берег 2»,6085100,"studio,one_room,two_room,three_room,four_room",4934100,9957000,8049400
+Северное Медведково,15437600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b64374b23909.png,-1,МФК «Датский квартал»,7357100,"studio,one_room,two_room,three_room,four_room",6130800,11420500,8798600
+Ростокино,42810800,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7d871095f1e.jpg,93559900,ЖК «Режиссер»,19915500,"one_room,two_room,three_room,four_room,multiroom",-1,32643800,26502000
+Хорошёвский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b9a638ea76db.jpg,-1,ЖК «Рихард»,16984800,"studio,one_room,two_room,three_room",14646700,33842800,25432000
+Покровское-Стрешнево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d0cc5bd717bf.jpg,-1,Апарт-отель «Движение. Тушино»,9450000,"one_room,two_room,three_room",-1,15483000,12912000
+Останкинский,41854500,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fb2f28016f7d.jpg,53127900,МФК «Very»,16200000,"studio,one_room,two_room,three_room,four_room,multiroom",10416200,27800000,22601600
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6137498a7e2ad.jpg,-1,ЖК «Облака-2»,4242000,"studio,one_room,two_room,three_room",3890000,9731700,4986300
+Ленинский,13944100,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61360f02c2b96.jpg,-1,ЖК UP-квартал «Римский»,7167800,"studio,one_room,two_room,three_room,four_room",5053600,12576600,8283600
+Люберецкий,16292500,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7dd31b45834.jpg,-1,ЖК «Первый Лермонтовский»,7220800,"studio,one_room,two_room,three_room,four_room",5443900,9200000,8357800
+Филёвский Парк,55249300,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62b4699734a37.jpg,94481700,ЖК «Sydney City»,20663600,"studio,one_room,two_room,three_room,four_room,multiroom",18972500,32482600,26678100
+Ленинский,15567000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c3c59f488f0e.jpg,-1,ЖК «Южная Битца»,6978400,"studio,one_room,two_room,three_room,four_room",5710500,10250000,9619000
+Нижегородский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7271251d838.jpg,-1,ЖК «Profit»,-1,"studio,two_room,three_room",8760000,19225000,14752000
+Обручевский,47017800,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f5a3606ad188.jpg,61531900,ЖК «Архитектор»,18394000,"studio,one_room,two_room,three_room,four_room,multiroom",16869600,30101300,23552800
+Химки,16132600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61570f8e2d4d7.jpg,-1,ЖК «1-й Ленинградский»,8472100,"studio,one_room,two_room,three_room,four_room",7788720,13984500,10650000
+Люберецкий,12706500,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6132020bea8d0.jpg,-1,ЖК «Люберцы 2022»,6012100,"one_room,two_room,three_room,four_room",-1,9734700,7555800
+Очаково-Матвеевское,21184000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d0a518794575.jpg,-1,ЖК «Вестердам»,9788000,"one_room,two_room,three_room,four_room",-1,18354000,13688000
+Покровское-Стрешнево,28073000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fb78e86a2cd1.jpg,-1,ЖК «City Bay»,11297000,"studio,one_room,two_room,three_room,four_room",8071000,19573000,14684000
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62f4c18e48804.jpg,-1,МФК «Lumin»,49653000,"studio,one_room,two_room,three_room",28174000,262962000,62192000
+Хорошёво-Мнёвники,22605000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d63bbe1272e2.jpg,-1,МФК «MainStreet»,14523000,"studio,one_room,two_room,three_room,four_room",11000000,20670000,14900000
+Нагатино-Садовники,29000000,https://st.novostroy.ru/regions/u/b/g/box_orig/5fc0dbc357d2b.jpg,-1,МФК «Новоданиловская 8»,13200000,"studio,one_room,two_room,three_room,four_room",11514000,20868000,18490000
+Сосенское,15086000,https://st.novostroy.ru/regions/u/b/g/box_orig/60a672afbda5c.jpg,-1,ЖК «Южные сады»,8588000,"studio,one_room,two_room,three_room,four_room",6965000,11355000,9201000
+Московский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62fa1515a4fc3.jpg,-1,Апарт-отель «Движение. Говорово»,7167600,"studio,one_room,two_room,three_room",5473500,8544300,7110600
+Савёловский,48354000,https://st.novostroy.ru/regions/u/b/g/box_orig/6177ec85c42f6.jpg,-1,МФК «Клубный дом Verdi»,15426300,"one_room,two_room,three_room,four_room",-1,28452700,19473300
+Таганский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/610931128cb0f.jpg,-1,МФК «N'ice loft»,5509000,"one_room,two_room,three_room",-1,18560000,11462000
+Нагорный,34870000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6131f58f583ea.jpg,49313000,ЖК «Eniteo»,-1,"two_room,three_room,four_room,multiroom",-1,27237000,19877000
+Даниловский,40653700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61656c8a81217.png,-1,ЖК «Level Нагатинская»,11690000,"one_room,two_room,three_room,four_room",-1,24176700,17226100
+Басманный,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b7d3290f245d.jpg,-1,ЖК «Лефорт»,20574000,"one_room,two_room,three_room",-1,34116000,27680000
+Западное Дегунино,23143000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/628b8876babe3.png,-1,ЖК «Level Селигерская»,9180000,"studio,one_room,two_room,three_room,four_room",6137000,14961000,12331000
+Пресненский,84719700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6290cf81d0dc5.jpg,-1,ЖК «Republic»,31362000,"studio,one_room,two_room,three_room,four_room",19781700,51422400,40134800
+Головинский,26926000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60744cdf815b2.jpg,-1,ЖК «UNO Старокоптевский»,11405000,"studio,one_room,two_room,three_room,four_room",8498000,22369000,12804000
+Нагорный,36198700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5eb3f73b1644e.jpg,51721200,ЖК «TopHILLS»,17350000,"studio,one_room,two_room,three_room,four_room,multiroom",14410300,34143600,18000000
+Крюково,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5bc07264b4857.jpg,-1,ЖК «Новый Зеленоград»,5619100,"studio,one_room,two_room,three_room",3714800,7452600,6087600
+Головинский,24727000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5978b605ccb6b.jpg,-1,МФК «Флотилия»,6096000,"one_room,two_room,three_room,four_room",-1,16419000,10719000
+Хамовники,69205000,https://st.novostroy.ru/regions/u/b/g/box_orig/5af5a361087e8.jpg,-1,МФК «Magnum»,40989000,"one_room,two_room,three_room,four_room",-1,62574000,31606000
+Хорошёво-Мнёвники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f2d70d1d43b1.jpg,-1,ЖК «Crystal»,16236000,"one_room,two_room,three_room",-1,27880000,18270000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/629f787e50062.jpg,-1,Апарт-отель «Апартаменты на Ковровом»,-1,"studio,two_room",2323400,-1,4433300
+Митино,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/604f2ed53fb42.jpg,-1,ЖК «Отрада»,6850000,"studio,one_room,two_room,three_room",5490000,11773500,8300000
+Химки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360dfe2ac7d3.jpg,-1,ЖК «Квартал Ивакино»,6449000,"studio,one_room,two_room,three_room",4974000,10051000,6492000
+Нижегородский,28978000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63593dc39e64a.jpg,-1,ЖК «Красноказарменная 15»,11829000,"studio,one_room,two_room,three_room,four_room",8098000,19278000,16050000
+Бутырский,55270000,https://st.novostroy.ru/regions/u/b/g/box_orig/60362d65c96fe.jpg,138900000,ЖК «Достижение»,15500000,"studio,one_room,two_room,three_room,four_room,multiroom",13960000,36180000,28310000
+Одинцовский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5af9a16c88431.jpg,-1,ЖК «Одинбург»,7609000,"studio,one_room,two_room,three_room",5446000,13251000,11035000
+Бескудниковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6155d2ba8c14a.jpg,-1,ЖК «Kinetik»,12200000,"studio,one_room,two_room,three_room",8500000,21200000,11300000
+Хорошёво-Мнёвники,34332000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61362a8dac148.jpg,48335000,ЖК «Театральный квартал»,12915000,"one_room,two_room,three_room,four_room,multiroom",-1,26978000,19189000
+Марфино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360ca5e79a83.jpg,-1,ЖК «Большая Академическая 85»,10658000,"studio,one_room,two_room,three_room",7243000,17129000,12892000
+Мытищинский,12225800,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c795e971ca0e.jpg,-1,ЖК «Новое Медведково»,7769400,"studio,one_room,two_room,three_room,four_room",6470400,12224200,8895500
+Щёлковский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/618e5f47eef5b.jpg,-1,ЖК «Солнечная долина» (Щелково),4050000,"studio,one_room,two_room,three_room",3128000,9630000,6610000
+Южнопортовый,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62434193a212b.jpeg,-1,ЖК «Champine»,17185000,"one_room,two_room,three_room",-1,29530000,21148000
+Солнечногорский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/537efc8224d6e.jpg,-1,МЖК «Новое Замитино»,4152900,"one_room,two_room,three_room",-1,7811600,6192000
+Пушкинский,12609100,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dc2c318c300c.jpg,-1,ЖК «Новое Пушкино»,5538000,"one_room,two_room,three_room,four_room",-1,9067600,6785200
+Одинцовский,9930000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63512c242e665.jpg,-1,ЖК «Рублевский Квартал»,6208000,"studio,one_room,two_room,three_room,four_room",4393000,8309000,6057000
+Московский,20521900,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e57ba1bef053.jpg,-1,ЖК «Homecity»,9905400,"one_room,two_room,three_room,four_room",-1,19251500,13774600
+Ленинский,14512000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cbedf9857664.jpg,-1,ЖК Миниполис «Дивное»,5388000,"one_room,two_room,three_room,four_room",-1,12249000,7092000
+Беговой,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/633fc6ace5fa7.jpg,-1,Апарт-отель «SLAVA»,24739000,"studio,one_room,two_room",19151000,-1,34098000
+Химки,9436000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61f808dd487da.jpg,-1,ЖК «Пятницкие Луга»,5360000,"studio,one_room,two_room,three_room,four_room",4268000,7788000,5589000
+Южнопортовый,19674200,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61cd7b174534e.png,-1,МФК «Level Южнопортовая»,7044000,"one_room,two_room,three_room,four_room",-1,15941900,11492900
+Очаково-Матвеевское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360c0446461e.jpg,-1,ЖК «Мещерский лес»,11305000,"studio,one_room,two_room,three_room",8222000,22167000,15021000
+Очаково-Матвеевское,28461000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/619b397663046.jpg,38378000,ЖК «Level Мичуринский»,9964000,"one_room,two_room,three_room,four_room,multiroom",-1,19775000,14056000
+Люблино,42201000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61c2e3765a15d.png,-1,ЖК «Wave»,8959000,"studio,one_room,two_room,three_room,four_room",7992000,28826000,16422000
+Митино,17232700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61a4cc69e1bd8.jpg,-1,ЖК «Большое Путилково»,8329600,"studio,one_room,two_room,three_room,four_room",6180400,14351800,8677300
+Покровское-Стрешнево,52973000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/615ec9f5f0a40.jpg,-1,ЖК «Alia»,13704000,"studio,one_room,two_room,three_room,four_room",10378000,25233000,18687000
+Отрадное,37766000,https://st.novostroy.ru/regions/u/b/g/box_orig/635bf04c61aea.jpg,-1,ЖК «Green park»,12001000,"studio,one_room,two_room,three_room,four_room",8198000,22447000,15774000
+Московский,16641000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61a4d13e1d110.jpg,-1,Апарт-отель «Тропарево парк»,7679700,"studio,one_room,two_room,three_room,four_room",6522700,11705300,10952100
+Митино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60a38d6f504b5.png,-1,Апарт-отель «Перец»,7874000,"studio,one_room,two_room",4223000,-1,6434000
+Ленинский,9180000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61af519c724be.jpg,-1,ЖК «Горки Парк»,5122000,"studio,one_room,two_room,three_room,four_room",4179000,7377000,5147000
+Южное Бутово,12357000,https://st.novostroy.ru/regions/u/b/g/box_orig/63178c8b4c02a.png,-1,ЖК «Бунинские кварталы»,8225000,"studio,one_room,two_room,three_room,four_room",6288000,11028000,8529000
+Южнопортовый,26153000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/616816df6bf84.jpg,-1,МФК «Метрополия»,10065000,"studio,one_room,two_room,three_room,four_room",7474000,17126000,13390000
+Подольск,13602000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61af50a544cd7.jpg,-1,ЖК «Алхимово»,7362000,"studio,one_room,two_room,three_room,four_room",5588000,10765000,7423000
+Мытищинский,13235900,https://st.novostroy.ru/regions/u/b/g/box_orig/60fe98749177a.jpg,-1,ЖК «Мытищи Парк»,5531100,"studio,one_room,two_room,three_room,four_room",5287200,9227100,6309800
+Ленинский,12216300,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61af5287e7982.jpg,-1,ЖК «Прибрежный Парк»,6293900,"studio,one_room,two_room,three_room,four_room",4913600,9561700,8850400
+Одинцовский,16468000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62ff4f8958eaf.jpg,-1,ЖК «Одинград. Квартал Семейный»,7234200,"studio,one_room,two_room,three_room,four_room",5753700,11471000,8073100
+Савёловский,27885000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6368eeac84959.jpg,-1,ЖК «Петровский парк II»,14014000,"studio,one_room,two_room,three_room,four_room",10516000,21980000,14705000
+Даниловский,41834000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d5e73ef098e4.jpg,50718000,ЖК «ЗИЛАРТ»,15585000,"studio,one_room,two_room,three_room,four_room,multiroom",12392000,28725000,19804000
+Даниловский,32000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6131f44149964.jpg,65877000,ЖК «Now. Квартал на набережной»,13900000,"one_room,two_room,three_room,four_room,multiroom",-1,27143000,21045000
+Пресненский,140064000,https://st.novostroy.ru/regions/u/b/g/box_orig/603f9f7242485.jpg,232855000,ЖК «Бадаевский»,-1,"two_room,three_room,four_room,multiroom",-1,102604000,55000000
+Красногорский,18062000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f43c755ab36b.jpg,-1,ЖК Миниполис «Серебрица»,5810000,"studio,one_room,two_room,three_room,four_room",5976000,11529000,9583000
+Южнопортовый,24015000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/622af80ff0445.png,-1,ЖК «MYPRIORITY Dubrovka»,-1,"studio,two_room,three_room,four_room",8376000,15990000,10955000
+Нагорный,29218000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b3df1bc613df.png,-1,ЖК «LIFE-Варшавская»,12800000,"studio,one_room,two_room,three_room,four_room",11132000,24653000,17000000
+Люберецкий,12610000,https://st.novostroy.ru/regions/u/b/g/box_orig/62f1004c0b6a8.jpg,-1,МФК «Liberty»,5361000,"studio,one_room,two_room,three_room,four_room",3744000,13986000,8026000
+Западное Дегунино,20660000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6001762ae0d3c.png,-1,ЖК «Тринити-2»,8212000,"studio,one_room,two_room,three_room,four_room",5498000,19909000,12644000
+Щукино,29500000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5de0f55234697.jpg,-1,ЖК «Октябрьское поле»,11718000,"studio,one_room,two_room,three_room,four_room",8362000,22165000,15345000
+Южнопортовый,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360c8a924edb.jpg,-1,ЖК «Первый Дубровский»,9688000,"studio,one_room,two_room,three_room",6771000,16785000,12502000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cebf4138e4ce.jpg,-1,ЖК «Карамельный»,3375000,"one_room,two_room,three_room",-1,5611000,4865000
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360bc9a9cb9d.jpg,-1,ЖК «Бусиновский парк»,7725000,"studio,one_room,two_room,three_room",5783000,14845000,10862000
+Ленинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/6179178742aad.jpg,-1,ЖК «Никольские луга»,6311000,"studio,one_room,two_room,three_room",4565000,10634000,8679000
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61e7e2d7b8709.png,-1,ЖК «Ильинойс»,5447000,"studio,one_room,two_room,three_room",3799000,9096000,5662000
+Люблино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63592240e7c0e.jpg,-1,ЖК «Люблинский парк»,6909000,"studio,one_room,two_room,three_room",5013000,12633000,7036000
+Красногорский,18788000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e60ec7253f6e.jpg,-1,ЖК Миниполис «Восемь кленов»,8821900,"one_room,two_room,three_room,four_room",-1,14616000,9598800
+Басманный,55248000,https://st.novostroy.ru/regions/u/b/g/box_orig/61012a9f6b3ac.png,55248000,ЖК «MYPRIORITY Basmanny»,-1,"studio,two_room,three_room,four_room,multiroom",11450000,26324000,14694000
+Останкинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/59b156a91c43d.jpg,-1,МФК «Hill8»,-1,"studio,two_room,three_room",16277000,43682000,23500000
+Якиманка,228680000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/628e29e4c60bb.jpg,326140000,ЖК «Русские сезоны»,-1,"three_room,four_room,multiroom",-1,255830000,-1
+Головинский,26034000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63591ac46be2e.jpg,-1,ЖК «Кронштадтский 9»,11800000,"studio,one_room,two_room,three_room,four_room",8212000,17295000,12446000
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6054c1d34f286.png,-1,МЖК «Живописный»,6334000,"studio,one_room,two_room,three_room",6103000,11357000,7524000
+Филёвский Парк,53699000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/611645487633f.jpg,-1,МФК «Сердце Столицы»,13790000,"studio,one_room,two_room,three_room,four_room",17442000,35701000,26410000
+Покровское-Стрешнево,73556000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/632c6ad430dee.jpg,-1,ЖК «Клубный город на реке Primavera»,17760000,"one_room,two_room,three_room,four_room",-1,34278000,25818000
+Сокол,54178000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c0f9b518cc1e.jpg,81371000,"ЖК «Врубеля, 4»",27539000,"one_room,two_room,three_room,four_room,multiroom",-1,33971000,33268000
+Замоскворечье,44525000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e2570714b309.jpg,-1,ЖК «Павелецкая Сити»,17498000,"studio,one_room,two_room,three_room,four_room",12283000,30619000,22834000
+Московский,16247500,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6282497709b04.jpg,-1,ЖК «МелиСад»,7500000,"studio,one_room,two_room,three_room,four_room",6274900,11857700,7700000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e02231dc2f76.jpg,-1,ЖК «Императорские Мытищи»,5407000,"studio,one_room,two_room,three_room",3861000,10688000,6270000
+Щукино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360cc1718715.jpg,-1,МФК «Волоколамское 24»,9129000,"studio,one_room,two_room,three_room",6806000,15940000,10937000
+Свиблово,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635fccc1595b2.jpg,-1,"ЖК «Кольская, 8»",9051000,"studio,one_room,two_room,three_room",6220000,13296000,8964000
+Головинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63592ee955958.jpg,-1,ЖК «Кронштадтский 14»,10581000,"studio,one_room,two_room,three_room",7570000,19288000,14441000
+Отрадное,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635a89234caf6.jpg,-1,ЖК «Сигнальный 16»,8220000,"studio,one_room,two_room,three_room",5830000,15056000,8632000
+Покровское-Стрешнево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e3169f592075.jpg,-1,ЖК «Holland park»,10309000,"studio,one_room,two_room,three_room",7285000,15171000,12033000
+Кузьминки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6357f33aee853.jpg,-1,ЖК «Михайловский парк»,9350000,"studio,one_room,two_room,three_room",6405000,16417000,13042000
+Кунцево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6356917fdd596.jpg,-1,ЖК «Академика Павлова»,13069000,"studio,one_room,two_room,three_room",9069000,20142000,16428000
+Московский,14422000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f313a3a9de5a.jpg,34824000,ЖК «Прокшино»,9975000,"studio,one_room,two_room,three_room,four_room,multiroom",7134000,12774000,10272000
+Нижегородский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635be0d57847f.jpg,-1,ЖК «Волжский парк»,8036000,"studio,one_room,two_room,three_room",5890000,12813000,8138000
+Сокольники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62a067b58451a.jpg,-1,Апарт-отель «Берег Яузы»,-1,studio,7182000,-1,-1
+Останкинский,22264000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6356a14a9ae2a.jpg,28087000,ЖК «Руставели 14»,11502000,"studio,one_room,two_room,three_room,four_room,multiroom",7327000,16735000,12207000
+Очаково-Матвеевское,17681000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/635924b6d9f5d.jpg,-1,ЖК «Матвеевский парк»,9475000,"studio,one_room,two_room,three_room,four_room",6668000,15031000,10891000
+Западное Дегунино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d5e5b5174955.jpg,-1,ЖК «Селигер Сити»,15945000,"studio,one_room,two_room,three_room",12882000,33589000,18707000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6053252a19c0f.jpg,-1,ЖК «Кит»,6902000,"one_room,two_room,three_room",-1,17500000,11232000
+Гольяново,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60adfff36a496.jpg,-1,Апарт-отель «Измайловский парк»,-1,"studio,two_room,three_room",5973500,16840700,10614300
+Королёв,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6274fb947e873.jpg,-1,ЖК «Дом-Мегалит в Королёве»,7847800,"one_room,two_room,three_room",-1,13161000,11524500
+Филимонковское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635a87660652a.jpg,-1,ЖК «Середневский лес»,6200000,"studio,one_room,two_room,three_room",4529000,10695000,7218000
+Богородское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635a8eedefd23.jpg,-1,ЖК «Лосиноостровский парк»,8656000,"studio,one_room,two_room,three_room",6088000,15150000,11350000
+Нижегородский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fec5e1df35be.jpg,-1,ЖК «Перовское 2»,8380000,"studio,one_room,two_room,three_room",5851000,15240000,8074000
+Очаково-Матвеевское,25996000,https://st.novostroy.ru/regions/u/b/g/box_orig/635fa202297a0.jpg,-1,ЖК «Большая Очаковская 2»,10699000,"studio,one_room,two_room,three_room,four_room",7555000,18282000,10670000
+Десёновское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cb0d3a564f0f.png,18840000,ЖК «Кленовые аллеи»,8758000,"studio,one_room,two_room,three_room,multiroom",8616000,12269000,10326000
+Можайский,19505000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62bd8dbceaf4b.jpg,-1,МФК «Верейская 41»,-1,"studio,two_room,three_room,four_room",9551000,17394000,11878000
+Балашиха,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ec3e7e69fcb1.jpg,-1,ЖК «Пехра»,4322000,"studio,one_room,two_room",3005000,-1,5865000
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61daef36e12b7.png,-1,ЖК «Аникеевский»,-1,"studio,two_room,three_room",3630000,6095000,4458000
+Западное Дегунино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360c758e820c.jpg,-1,ЖК «Алтуфьевское 53»,7585000,"studio,one_room,two_room,three_room",5414000,13272000,7808000
+Бибирево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360c2975fcd5.jpg,-1,ЖК «Полар»,7981000,"studio,one_room,two_room,three_room",5647000,13741000,8315000
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6357dfc37299b.jpg,-1,ЖК «Восточное Бутово»,5560000,"studio,one_room,two_room,three_room",4370000,8678000,7325000
+Нагатино-Садовники,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635be2ad10bd7.jpg,-1,ЖК «Второй Нагатинский»,8777000,"studio,one_room,two_room,three_room",6227000,17011000,11976000
+Хорошёвский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/6319cedc6b4c1.jpg,-1,Апарт-отель «Travelto Петровский парк»,7585000,"studio,one_room",5772000,-1,-1
+Рязанский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b3c9b2b73909.jpg,-1,ЖК «Кварталы 21/19»,11476000,"one_room,two_room,three_room",-1,12230000,9785000
+Московский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/635a81a81a4eb.jpg,-1,ЖК «Саларьево парк»,7764000,"studio,one_room,two_room,three_room",5874000,14061000,7988000
+Люберецкий,11199000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fc0ce277546a.jpg,-1,ЖК «Люберцы 2020»,4042000,"studio,one_room,two_room,three_room,four_room",4486000,6721000,5125000
+Москворечье-Сабурово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61cc1b3ddfdd4.jpg,-1,ЖК «Кавказский бульвар 51»,7973000,"studio,one_room,two_room,three_room",5606000,14204000,10681000
+Лефортово,36329000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6214ab099581c.jpg,42595000,ЖК «Символ»,13115000,"studio,one_room,two_room,three_room,four_room,multiroom",9404000,25229000,18264000
+Измайлово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360ceba6cc02.jpg,-1,ЖК «Амурский парк»,8039000,"studio,one_room,two_room,three_room",5808000,14279000,10860000
+Московский,15978000,https://st.novostroy.ru/regions/u/b/g/box_orig/5988734802798.jpg,-1,ЖК «Испанские кварталы»,11182000,"studio,one_room,two_room,three_room,four_room",6987000,15425000,11964000
+Дорогомилово,137250000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f68c1fd57cab.jpg,-1,ЖК «Hide»,22626000,"studio,one_room,two_room,three_room,four_room",20324000,48895000,35486000
+Королёв,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf511ec4fec3.jpg,-1,ЖК «River Park»,5984000,"studio,one_room,two_room,three_room",4350000,9460750,7749900
+Химки,22250000,https://st.novostroy.ru/regions/u/b/g/box_orig/534e3c539c401.jpeg,-1,ЖК «Маяк»,5861000,"one_room,two_room,four_room",-1,-1,8143000
+Кузьминки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7dde6ca526f.jpg,-1,ЖК «balance»,-1,"two_room,three_room",-1,22262000,14535000
+Черёмушки,28485000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62177c70441a1.jpg,-1,МФК «Nametkin Tower»,10312000,"studio,one_room,two_room,three_room,four_room",8449000,16790000,13501000
+Десёновское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/51d2d91433938.jpg,-1,МЖК «Новые Ватутинки» (Южный квартал),6700000,"studio,one_room,two_room,three_room",6300000,11500000,9500000
+Очаково-Матвеевское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/636b5e7358b3a.jpg,-1,ЖК «Новое Очаково»,8168000,"studio,one_room,two_room,three_room",5942000,14592000,10288000
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/622f1d8a14d31.jpg,52915500,Апарт-отель «ФизтехСити»,-1,"studio,two_room,multiroom",6129500,-1,8685100
+Наро-Фоминский,13169700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ce4014cbf081.jpg,-1,ЖК «VESNA»,5713600,"studio,one_room,two_room,three_room,four_room",4887200,8798700,6988100
+Хорошёвский,80919300,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfc973ca2236.jpg,133910000,ЖК «Prime Park»,25750000,"one_room,two_room,three_room,four_room,multiroom",-1,39410000,27250000
+Химки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c3da78a0088d.jpg,-1,ЖК Миниполис «Рафинад»,7282000,"one_room,two_room,three_room",-1,9413000,8309000
+Черёмушки,50058000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/600009d6de004.jpg,52896000,МФК «AFI Park Воронцовский»,16981000,"studio,one_room,two_room,three_room,four_room,multiroom",12892000,27108000,16107000
+Раменки,60371000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f634f669dd25.jpg,-1,ЖК «Настоящее»,23309000,"studio,one_room,two_room,three_room,four_room",20959000,44422000,32003000
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6357e4a2ec3ed.jpg,-1,ЖК «Дмитровский парк»,10320000,"studio,one_room,two_room,three_room",6918000,15232000,13676000
+Котельники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360d054b1f6c.jpg,-1,ЖК «Белая Дача парк»,5700000,"studio,one_room,two_room,three_room",4372000,7685000,5708000
+Крюково,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6357e68a76a22.jpg,-1,ЖК «Зеленый парк»,5859000,"studio,one_room,two_room,three_room",4432000,12669000,8315000
+Очаково-Матвеевское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6360cd4736e73.jpg,-1,ЖК «Мичуринский парк»,8908000,"studio,one_room,two_room,three_room",6526000,15927000,9232000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61a4c21f16d93.jpg,-1,ЖК «Квартал Некрасовка»,9968000,"studio,one_room,two_room,three_room",9578000,16020000,12790000
+Московский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/58f0dd3ba4ccc.jpg,-1,ЖК «Лучи»,12333000,"studio,one_room,two_room,three_room",8327000,24056000,16902000
+Марушкинское,12556000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61f7f0b0a5102.jpg,-1,ЖК «Новое Внуково»,6690000,"studio,one_room,two_room,three_room,four_room",5410000,9463000,7079000
+Сосенское,12708000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c989ba0888e3.jpg,-1,ЖК «ЭкоБунино»,6197000,"studio,one_room,two_room,three_room,four_room",5432000,8980000,6319000
+Солнечногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f3c6a3f7f2b3.jpg,-1,ЖК «Лесная Отрада»,5500000,"studio,one_room,two_room,three_room",5100000,12350000,8000000
+Обручевский,25709000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_6119986456321.jpg,34428000,ЖК «EVER»,12860000,"studio,one_room,two_room,three_room,four_room,multiroom",13576000,19755000,15347000
+Басманный,130474000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5a81b0fb7ed7c.png,169000000,МФК «RED7»,-1,"studio,two_room,three_room,four_room,multiroom",25690000,51758000,38159000
+Крюково,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/55dc47752c263.jpg,-1,ЖК «Андреевка»,3691000,"one_room,two_room,three_room",-1,8434000,7857000
+Одинцовский,6850000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf65cfa265d2.jpg,-1,МЖК «Троицкая слобода»,3904000,"one_room,two_room,three_room,four_room",-1,5954000,5542000
+Щукино,31827000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6287a4fe07f3e.jpg,-1,ЖК «Вереск»,14147000,"studio,one_room,two_room,three_room,four_room",10644000,22084000,16359000
+Хорошёво-Мнёвники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/609cf5de750e1.jpg,-1,МФК «Мята»,12085000,"studio,one_room,two_room,three_room",8909000,18988000,12122000
+Метрогородок,33666500,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fd21a2cd8c8e.png,-1,ЖК «Талисман на Рокоссовского»,8350800,"one_room,two_room,three_room,four_room",-1,18828700,13117600
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61683c4ec2dd9.jpg,-1,ЖК «Егорово Парк»,5238000,"studio,one_room,two_room,three_room",4702000,10257000,6990000
+Можайский,35800900,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c66fb21b6c8e.jpg,-1,ЖК «КутузовGRAD II»,18647300,"studio,one_room,two_room,three_room,four_room",15571600,28447600,16363900
+Южное Бутово,14487000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d5d54cb33031.jpg,25613000,ЖК «Скандинавия»,8929000,"studio,one_room,two_room,three_room,four_room,multiroom",6248000,12842000,9528000
+Московский,24425000,https://st.novostroy.ru/regions/u/b/g/box_orig/5d920569359da.jpg,-1,ЖК «Румянцево–Парк»,10440000,"one_room,two_room,three_room,four_room",-1,19475000,13575000
+Даниловский,73075000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6194fbdb9dc0e.jpg,85865000,ЖК «Forst»,15758000,"studio,one_room,two_room,three_room,four_room,multiroom",13015000,27478000,19352000
+Филёвский Парк,35731000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f75d3119924d.jpg,-1,ЖК «Level Причальный»,13683000,"one_room,two_room,three_room,four_room",-1,28164000,20350000
+Хорошёвский,36936000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ef5e7419e5c0.jpg,-1,ЖК «Авиатика»,17487000,"one_room,two_room,three_room,four_room",-1,31070000,23987000
+Мытищинский,14964000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/634fd28b00686.jpg,-1,ЖК «Долина Яузы»,7202000,"studio,one_room,two_room,three_room,four_room",7359000,12853000,8450000
+Ростокино,55323000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62bd91072bc36.png,-1,ЖК «Союз»,19990000,"one_room,two_room,three_room,four_room",-1,36350000,26524000
+Хорошёво-Мнёвники,27451000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/601a5f0071c78.jpg,-1,ЖК «Wellton Towers»,12215000,"one_room,two_room,three_room,four_room",-1,21315000,16934000
+Левобережный,52345000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fc90d50bd07c.jpg,-1,ЖК «Фестиваль парк-2»,-1,"two_room,three_room,four_room",-1,32652000,23900000
+Проспект Вернадского,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/624ef81597b14.jpg,-1,ЖК «Full House»,20886000,"one_room,two_room,three_room",-1,47700000,30629000
+Очаково-Матвеевское,21637000,https://st.novostroy.ru/regions/u/b/g/box_orig/60fe977baaf80.jpg,-1,ЖК «Заречье Парк»,8477000,"studio,one_room,two_room,three_room,four_room",6800000,13022000,10677000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e86f714418e9.jpg,-1,МЖК «Одинцовские кварталы»,5092000,"one_room,two_room,three_room",-1,10736000,6636000
+Северное Медведково,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/63593bfd7e5c5.jpg,-1,ЖК «Полярная 25»,9479000,"studio,one_room,two_room,three_room",6040000,15455000,11799000
+Южное Бутово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f3a7f7443b12.jpg,-1,ЖК «Новая Щербинка»,6186000,"studio,one_room,two_room,three_room",4504000,9694000,8815000
+Покровское-Стрешнево,23367000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d6e594dc932f.jpg,55828000,Апарт-отель «Level Стрешнево»,6509000,"one_room,two_room,three_room,four_room,multiroom",-1,14693000,10864000
+Даниловский,29236700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61e56a32b750d.jpg,-1,МФК «Ривер Парк»,15503000,"one_room,two_room,three_room,four_room",-1,23815000,20570900
+Хорошёво-Мнёвники,54396000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/61b7027ee39f4.jpg,-1,ЖК «Береговой 2»,17148000,"one_room,two_room,three_room,four_room",-1,37834000,26804000
+Измайлово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_5e9aefcc0f1c4.jpg,-1,МФК «Парковая Лофт»,9155000,"studio,one_room,two_room,three_room",7230000,12669000,10500000
+Даниловский,45806000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ee750a3d3aee.jpg,82591600,ЖК «Foriver»,23360800,"one_room,two_room,three_room,four_room,multiroom",-1,33639800,22491000
+Западное Дегунино,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/62e103bfaf14d.png,-1,ЖК «Дмитровское небо»,7850000,"studio,one_room,two_room,three_room",8358000,22516000,15728000
+Чертаново Южное,21058000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f998b0823141.jpg,-1,ЖК «Зеленая вертикаль»,10300000,"studio,one_room,two_room,three_room,four_room",10500000,16200000,14515000
+Сокольники,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635a925768b9a.jpg,-1,Апарт-отель «Сокольнический Вал 1»,7725000,"studio,one_room,two_room",6085000,-1,11364000
+Марьина Роща,21953900,https://st.novostroy.ru/regions/u/b/g/box_orig/63498ad4425ea.jpg,-1,Апарт-отель «MirrorЗдание»,9419000,"studio,one_room,two_room,three_room,four_room",6535900,13689400,9279300
+Очаково-Матвеевское,22095000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/635a7567bf25d.jpg,-1,ЖК «Vangarden»,10770000,"studio,one_room,two_room,three_room,four_room",7933000,20781000,14278000
+Очаково-Матвеевское,101385000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cd814d36cf0a.jpg,132883000,ЖК «Река»,42049000,"one_room,two_room,three_room,four_room,multiroom",-1,86755000,56507000
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7de0218bf49.jpg,-1,ЖК «Героев»,5216000,"studio,one_room,two_room,three_room",4771000,9237000,7251000
+Ярославский,33097000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6019147857a23.jpg,-1,ЖК «AFI Tower»,18213000,"studio,one_room,two_room,three_room,four_room",9637000,29082000,19633000
+Химки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e58efa78ff3d.jpg,-1,ЖК «Бригантина»,-1,"studio,two_room,three_room",6365000,9820000,6419000
+Филимонковское,12678000,https://st.novostroy.ru/regions/u/b/g/box_orig/62ceca3224f6c.png,-1,ЖК «Цветочные поляны Экопарк»,5338000,"studio,one_room,two_room,three_room,four_room",4642000,7519000,6128000
+Чертаново Южное,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635a8d99c7a8e.jpg,-1,ЖК «Ютаново»,7511000,"studio,one_room,two_room,three_room",5371000,13239000,8943000
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d68f71960250.jpg,-1,ЖК «Летний сад»,12633000,"studio,one_room,two_room,three_room",10622000,23889000,16955000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/635fe18b532bf.jpg,-1,ЖК «Одинцово-1»,4384000,"studio,one_room,two_room,three_room",4340000,8948000,6082000
+Очаково-Матвеевское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/637e1819e1548.jpg,-1,ЖК «Крылья»,-1,"studio,two_room,three_room",22532000,37923000,31457000
+Останкинский,59210000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6262721557d07.jpg,81368000,МФК «Серебряный фонтан»,24339000,"one_room,two_room,three_room,four_room,multiroom",-1,44595000,32000000
+Савёловский,49488000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60e70db4a0995.jpg,-1,ЖК «Symphony 34»,14216000,"studio,one_room,two_room,three_room,four_room",12278000,27535000,20175000
+Филёвский Парк,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/615dbad83a9ac.jpg,-1,ЖК «Famous»,20126000,"one_room,two_room,three_room",-1,46136000,27428000
+Даниловский,39030000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62626a9f89ca1.jpg,59644000,ЖК «Voxhall»,20041000,"studio,one_room,two_room,three_room,four_room,multiroom",12329000,38938000,25336000
+Филёвский Парк,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fb7947983906.jpg,-1,ЖК «Filicity»,-1,"two_room,three_room",-1,38417000,42715000
+Южное Бутово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f3e811375bfd.jpg,-1,ЖК «Бутово парк 2»,5750000,"studio,one_room,two_room,three_room",4450000,9192000,6176000
+Раменки,42394000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/630ccd0386069.jpg,66660000,ЖК «Событие»,20116000,"studio,one_room,two_room,three_room,four_room,multiroom",13370000,36294000,27020000
+Люберецкий,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/635fc8e049c22.jpg,-1,ЖК «Жулебино парк»,6741000,"studio,one_room,two_room,three_room",4772000,12337000,8778000
+Ленинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/627bc0c38c98c.jpg,-1,ЖК «Эко Видное 2.0»,4874000,"studio,one_room,two_room,three_room",4401000,9631000,8079000
+Нагатино-Садовники,36783000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/625555297953a.jpg,86675000,ЖК «Жилой квартал Shagal»,15138000,"studio,one_room,two_room,three_room,four_room,multiroom",12769000,24554000,19375000
+Крылатское,45563000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6268fd587151f.jpg,74152000,ЖК «Остров»,20041000,"studio,one_room,two_room,three_room,four_room,multiroom",17494000,32740000,28700000
+Останкинский,26116000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/620cf4e72f224.jpg,44703000,ЖК «iLove»,10592000,"one_room,two_room,three_room,four_room,multiroom",-1,19495000,15890000
+Марьина Роща,42404000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62f6383d7164d.jpg,-1,ЖК «MOD»,16023000,"studio,one_room,two_room,three_room,four_room",11413000,24300000,17100000
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6357eaa68cb88.jpg,-1,ЖК «Ильинские луга»,5670000,"studio,one_room,two_room,three_room",4113000,9711000,5781000
+Дорогомилово,107800000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c9daaa68498f.png,130500000,ЖК «Capital Towers»,46200000,"one_room,two_room,three_room,four_room,multiroom",-1,85640000,61300000
+Нагатинский Затон,37822000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/637e03750eeed.jpg,56481000,ЖК «Nagatino i-Land»,15844000,"studio,one_room,two_room,three_room,four_room,multiroom",13483000,30248000,23775000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cecf242381ad.jpg,-1,ЖК «Центральный» (Одинцово),6352500,"one_room,two_room,three_room",-1,13280000,8768000
+Ленинский,15007800,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/56d95bae3f443.jpg,-1,ЖК «Видный город»,8364500,"one_room,two_room,three_room,four_room",-1,13399800,8945900
+Красногорский,9588700,https://st.novostroy.ru/regions/u/b/g/box_orig/5968daf6bb7f6.jpg,21202000,ЖК «Лесобережный»,9829800,"one_room,two_room,three_room,four_room,multiroom",-1,8616500,9449700
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/552fa0d5b0f00.jpg,-1,МЖК «Булатниково»,4000000,one_room,-1,-1,-1
+Люберецкий,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfb86edd67d7.jpg,-1,ЖК «Новые Островцы»,3438000,"one_room,two_room,three_room",-1,8898000,5961000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/53fdd445d2db0.jpg,-1,ЖК «Высокие жаворонки»,4622000,one_room,-1,-1,-1
+Одинцовский,10059700,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5968de2a92e61.jpg,11247900,ЖК Город-событие «Лайково»,4773400,"one_room,two_room,three_room,four_room,multiroom",-1,9272600,6691900
+Раменки,143000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5979ac1cd7bb7.jpg,280449000,ЖК «Snegiri Eco»,-1,"three_room,four_room,multiroom",-1,74500000,-1
+Хорошёво-Мнёвники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/wm_5c139a9ac027f.jpg,-1,ЖК «Утёсов»,-1,three_room,-1,40255000,-1
+Серпуховский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6026765435c4b.jpg,-1,ЖК «Микрорайон в Большевике»,3620000,"one_room,two_room,three_room",-1,6280000,4880000
+Даниловский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/62418b1b8427d.jpg,-1,Апарт-отель «Vernissage»,-1,"two_room,three_room",-1,58650000,26810000
+Домодедово,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/56b87d5505094.jpg,-1,ЖК «ДОМодедово Парк»,3685000,"one_room,two_room",-1,-1,6122000
+Богородское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e8db3cc896bb.jpg,-1,ЖК «Вдохновение»,10900000,"one_room,two_room,three_room",-1,20960000,16240000
+Головинский,28440000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ce407883f8a3.jpg,-1,ЖК «Невский»,9599000,"one_room,two_room,four_room",-1,-1,11312000
+Ногинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e678fd4ebff2.jpg,-1,ЖК «Лесная поляна»,3673300,"one_room,two_room,three_room",-1,7306200,4502300
+Ленинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6023c0f432fc2.jpg,-1,ЖК «Первый квартал»,7350000,"studio,one_room,two_room",4550000,-1,10600000
+Замоскворечье,720251000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/607fed18c7a66.jpg,-1,МФК «Царев сад»,195214000,"one_room,two_room,three_room,four_room",-1,508421000,224123000
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e4e9b04a7e00.jpg,-1,МФК «Monodom family»,-1,"two_room,three_room",-1,24022000,19238000
+Ногинский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/5810ae3cda8db.jpg,-1,ЖК «Мой город»,3400000,"one_room,two_room,three_room",-1,6458000,4378000
+Красногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/601abad2cca86.jpg,-1,МЖК Клубный дом «Точка отсчета»,19568800,"studio,one_room,two_room,three_room",16353000,25397000,23065200
+Мещанский,270745000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5eecacc389457.jpg,384100000,ЖК «Turgenev»,145230000,"one_room,two_room,three_room,four_room,multiroom",-1,223840000,162980000
+Пушкинский,8326300,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e7b139f16b57.jpg,-1,ЖК «Южное Пушкино»,6129100,"one_room,two_room,three_room,four_room",-1,7495600,5883700
+Замоскворечье,50433600,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fbcdcddcc2fc.jpg,-1,ЖК «Sky House»,-1,"two_room,three_room,four_room",-1,37674000,27459000
+Мещанский,71366000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e451a9e8a0bb.jpg,-1,ЖК «Dialog»,25228000,"studio,one_room,two_room,three_room,four_room",22617000,50877000,39883000
+Первомайское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/56e7daeb28323.jpg,-1,ЖК «Эдельвейс» (ЦентрСтрой),6206000,"one_room,two_room,three_room",-1,9211200,7412500
+Ярославский,17476700,https://st.novostroy.ru/regions/u/b/g/box_orig/570d229bceb4a.jpg,26537100,Апарт-отель «Клубный дом на Менжинского»,6030600,"one_room,two_room,four_room,multiroom",-1,-1,8135600
+Пресненский,151690000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6061d6fe79f69.jpg,253740000,Апарт-отель «Sky View»,-1,"two_room,three_room,four_room,multiroom",-1,108230000,91450000
+Наро-Фоминский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/594bbbe6048b1.jpg,-1,МЖК «Парк Апрель»,5050000,"one_room,two_room",-1,-1,8850000
+Мытищинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ced3e86d073c.jpg,8326900,МЖК «Экодолье Шолохово»,-1,multiroom,-1,-1,-1
+Раменки,53733500,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/600aea29e89d1.png,-1,ЖК «Will Towers»,20287700,"studio,one_room,two_room,three_room,four_room",12302000,38136500,28813400
+Таганский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c372f4cc59a6.jpg,-1,Апарт-отель «Дом Chkalov»,25000000,"one_room,two_room,three_room",-1,60788000,24950000
+Ногинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/58173cd550e39.jpg,-1,ЖК «Истомкино Парк»,3200000,"studio,one_room,two_room,three_room",3260000,7200000,5200000
+Даниловский,75896000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cf635f500b16.jpg,-1,ЖК «RiverSky»,21437400,"one_room,two_room,three_room,four_room",-1,41142000,30336100
+Одинцовский,31122000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f9fcf968ecbf.jpg,-1,ЖК «Stellar City»,11150400,"studio,one_room,two_room,three_room,four_room",8519300,19340100,10225800
+Троицк,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5e8de9a89f6c4.jpg,-1,ЖК «Russian Design District»,10007500,"studio,one_room,two_room,three_room",8735200,19553200,14936400
+Хорошёвский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5eeca53cec548.jpg,-1,ЖК «Династия»,25020000,"one_room,two_room,three_room",-1,41356000,30045000
+Кунцево,14660400,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fc0d42e49ac7.jpg,-1,МФК «Спутник»,6592600,"studio,one_room,two_room,three_room,four_room",5456600,11035500,7892300
+Очаково-Матвеевское,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/62e2472245623.jpg,-1,Апарт-отель «New Form Аминьевское»,-1,studio,3267500,-1,-1
+Митино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/635918b09ea8f.jpg,-1,ЖК «Митинский лес»,6778000,"studio,one_room,two_room,three_room",4545000,11567000,9189000
+Хорошёво-Мнёвники,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cd6cbf20b3bb.jpg,258500000,МФК «River Residences в Серебряном Бору»,-1,"two_room,three_room,multiroom",-1,129200000,90200000
+Подольский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b855d6ead20b.jpg,-1,ЖК «Шепчинки»,-1,two_room,-1,-1,9900000
+Московский,17948000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6025528d317c4.png,-1,ЖК «Первый Московский»,6534000,"studio,one_room,two_room,three_room,four_room",6070000,11628000,8608000
+Солнечногорский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/600fd5d04d188.jpg,-1,ЖК «Никольская Панорама»,-1,two_room,-1,-1,10020000
+Кокошкино,11900000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/57a0d3cb93f63.jpg,-1,ЖК «Внуково Парк-2»,-1,"two_room,three_room,four_room",-1,12300000,9000000
+Коптево,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d9ca1ab2590a.jpg,-1,ЖК «Бульвар Матроса Железняка 11»,13982500,"one_room,two_room,three_room",-1,17719000,16990500
+Якиманка,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5eb891ed6508a.jpg,-1,ЖК «Titul на Якиманке»,78102000,"one_room,two_room",-1,-1,126050000
+Одинцовский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/60549972b9992.jpg,-1,ЖК «Сердце Одинцово»,8200000,one_room,-1,-1,-1
+Гольяново,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d9c95fa7c007.png,-1,ЖК «Измайловский проезд 22-1»,10774500,"studio,one_room,two_room",20114400,-1,16864200
+Якиманка,167521000,https://st.novostroy.ru/regions/u/b/g/box_orig/5d933d0dd4396.png,-1,"ЖК «Полянка, 44»",-1,"two_room,four_room",-1,-1,66000000
+Дмитровский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5861540d0f44a.jpg,-1,МЖК «Терра»,4100000,"one_room,two_room,three_room",-1,8600000,6500000
+Клинский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/6078109183dda.png,-1,ЖК «Майданово Парк»,3321700,"one_room,two_room",-1,-1,6454350
+Беговой,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5db6e3c4551b4.jpg,-1,Апарт-отель «Din Haus»,17259400,"one_room,two_room",-1,-1,25561000
+Щёлковский,13125000,https://st.novostroy.ru/regions/u/b/g/box_orig/581b1dc41ab8b.jpg,-1,ЖК «Центральный» (Щелково),-1,"two_room,three_room,four_room",-1,7035000,5968000
+Балашиха,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5ced5b05538a5.jpg,-1,ЖК «Эдельвейс Комфорт»,6481700,"one_room,two_room,three_room",-1,11757300,10787200
+Пущино,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/602fa3c4d9094.jpg,-1,ЖК «Северное сияние (Руза)»,4797000,"one_room,two_room,three_room",-1,7110000,6597000
+Тверской,385020000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5cefe42b443c7.jpg,-1,МФК «Fairmont Vesper Residences»,-1,"two_room,three_room,four_room",-1,266870000,179786000
+Савёловский,33389000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5f7af0876fc62.jpg,-1,МФК «Правда»,12856000,"one_room,two_room,three_room,four_room",-1,31126000,17120000
+Подольский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5c91ffc0617a3.jpg,-1,ЖК «Народный»,-1,three_room,-1,11000000,-1
+Арбат,475000000,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d6f7e957c6c1.jpg,1000000000,ЖК «High Garden»,-1,"two_room,three_room,four_room,multiroom",-1,305500000,272000000
+Отрадное,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/60487fe78e27a.jpg,-1,МФК «Легендарный квартал на Ботаническом саду»,9250600,"studio,one_room,two_room,three_room",7202300,20817000,12302500
+Десёновское,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/52ef4bc897e83.jpg,-1,МЖК «Андерсен»,6800000,"one_room,three_room",-1,13800000,-1
+Тверской,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5d4be430c3119.jpg,737250000,ЖК «Lion Gate»,-1,multiroom,-1,-1,-1
+Химки,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/585953388b2b0.jpg,-1,"МЖК «на Микояна, 54-57»",2740220,"studio,one_room,two_room,three_room",3055200,5670770,3940540
+Балашиха,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5dfca94746474.jpg,-1,ЖК «Новокосино-2»,6000000,"studio,one_room",7170000,-1,-1
+Хорошёвский,-1,https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5fd9fb9c7672d.jpg,-1,МФК «Зорге 9»,10100000,"studio,one_room,two_room,three_room",12393000,30637000,25780000
+Московский,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/603631fbe3418.png,-1,МФК «Живой комплекс LES»,15583400,"one_room,two_room",-1,-1,20426100
+Домодедово,-1,https://st.novostroy.ru/regions/u/b/g/box_orig/595a2af11fd8e.png,-1,ЖК «Ледово»,4058200,"studio,one_room,two_room,three_room",3693600,6694500,5342200
