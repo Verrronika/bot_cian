@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class UserData:
-    rooms: int = 0
+    rooms: str = 0
     max_price: int = 0
     okrug: str = ""
     district: str = ""

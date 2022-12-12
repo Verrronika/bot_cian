@@ -1,3 +1,4 @@
+import pandas as pd
 import strings
 import counters
 from user_data import UserData
@@ -33,13 +34,13 @@ def get_user_message(message):
     text = message.text.strip()
     if text in strings.rooms:
         if text == strings.rooms[0]:
-            user_data.set_rooms(0)
+            user_data.set_rooms('studio')
         elif text == strings.rooms[1]:
-            user_data.set_rooms(1)
+            user_data.set_rooms('one_room')
         elif text == strings.rooms[2]:
-            user_data.set_rooms(2)
+            user_data.set_rooms('two_room')
         elif text == strings.rooms[3]:
-            user_data.set_rooms(3)
+            user_data.set_rooms('three_room')
         bot.send_message(chat, strings.max_price_question, reply_markup=ReplyKeyboardRemove())
         bot.register_next_step_handler(message, get_max_price)
 
@@ -79,15 +80,14 @@ def get_okrug(message):
     text = message.text.strip()
     user_data.set_okrug(text)
     bot.send_message(chat, strings.district_question % text, reply_markup=ReplyKeyboardRemove())
+    bot.send_photo(chat, open(f'images/{text}.jpg', 'rb'))
     bot.register_next_step_handler(message, get_distrcict)
 
 
 def district_markup():
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     go_back = types.KeyboardButton(strings.go_back)
-    count_credit = types.KeyboardButton(strings.count_credit)
     markup.row(go_back)
-    markup.row(count_credit)
     return markup
 
 
@@ -95,12 +95,18 @@ def get_distrcict(message):
     chat = message.chat.id
     text = message.text.strip()
     user_data.set_district(text)
-    # тут считаем цену
-    bot.send_message(chat, "Тут будет итоговая цена", reply_markup=district_markup())
-    bot.register_next_step_handler(message, count_or_back)
+    data = pd.read_csv("parser/novostroy/file.csv")
+    temp_data = dict()
+    markup = district_markup()
+    for index, item in data.iterrows():
+        if item['district'] == text and item[user_data.rooms] != -1 and item[user_data.rooms] < user_data.max_price:
+            markup.row(item['name'])
+            temp_data[item['name']] = item[user_data.rooms]
+            bot.send_photo(chat, photo=item['image'], caption=f'Квартира в \"{item["name"]}\" от {item[user_data.rooms]} рублей', reply_markup=markup)
+    bot.register_next_step_handler(message, count_or_back, temp_data)
 
 
-def count_or_back(message):
+def count_or_back(message, temp_data):
     chat = message.chat.id
     text = message.text.strip()
     if text == strings.go_back:
@@ -109,6 +115,7 @@ def count_or_back(message):
         bot.send_message(chat, strings.data_reset, reply_markup=start_markup())
         bot.register_next_step_handler(message, get_user_message)
     else:
+        user_data.set_max_price(temp_data[text])
         bot.send_message(chat, strings.salary, reply_markup=ReplyKeyboardRemove())
         bot.register_next_step_handler(message, get_salary)
 
