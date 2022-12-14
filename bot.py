@@ -116,21 +116,21 @@ def count_or_back(message, temp_data):
         bot.register_next_step_handler(message, get_user_message)
     else:
         user_data.set_max_price(temp_data[text])
-        bot.send_message(chat, strings.salary, reply_markup=ReplyKeyboardRemove())
-        bot.register_next_step_handler(message, get_salary)
+        bot.send_message(chat, strings.years, reply_markup=ReplyKeyboardRemove())
+        bot.register_next_step_handler(message, get_years)
 
 
-def get_salary(message):
+def get_years(message):
     chat = message.chat.id
     text = message.text.strip()
     try:
-        salary = int(text)
-        user_data.set_salary(salary)
+        years = int(text)
+        user_data.set_years(years)
         bot.send_message(chat, strings.first_payment)
         bot.register_next_step_handler(message, get_first_payment)
     except ValueError:
         bot.send_message(chat, strings.try_again)
-        bot.register_next_step_handler(message, get_salary)
+        bot.register_next_step_handler(message, get_years)
 
 
 def get_first_payment(message):
@@ -139,9 +139,13 @@ def get_first_payment(message):
     try:
         payment = int(text)
         user_data.set_first_payment(payment)
-        time_to_pay = counters.count_credit(user_data)
-        print(time_to_pay)
-        bot.send_message(chat, strings.time_to_pay % (time_to_pay[0], time_to_pay[1]))
+        best_banks = counters.count_credits(user_data)
+        print(best_banks)
+        # Тут нам нужна только кнопка сбросить
+        bot.send_message(chat, strings.banks_available, reply_markup=district_markup())
+        for item in best_banks:
+            bot.send_message(chat, '\n'.join(item[:2]))
+        bot.register_next_step_handler(message, count_or_back)
     except ValueError:
         bot.send_message(chat, strings.try_again)
         bot.register_next_step_handler(message, get_first_payment)
