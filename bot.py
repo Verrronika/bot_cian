@@ -144,7 +144,7 @@ def get_first_payment(message):
         # Тут нам нужна только кнопка сбросить
         bot.send_message(chat, strings.banks_available, reply_markup=district_markup())
         for item in best_banks:
-            bot.send_message(chat, '\n'.join(item[:2]))
+            bot.send_message(chat, '\n'.join(item))
         bot.register_next_step_handler(message, count_or_back)
     except ValueError:
         bot.send_message(chat, strings.try_again)

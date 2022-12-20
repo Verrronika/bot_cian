@@ -16,4 +16,4 @@ for index, item in data.iterrows():
     sum = int(item['sum'])
     payment = month_payment(percentage, sum, item['term'])
     print(sum, payment)
-    result.append([item['name'], item['pecentage'], item['image'], payment])
+    result.append([item['name'], item['pecentage'], payment])
